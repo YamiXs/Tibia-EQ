@@ -1,3 +1,4 @@
+# tools/build_eq_items.py
 import json
 import re
 import time
@@ -8,24 +9,24 @@ from bs4 import BeautifulSoup
 
 # ------------------------------------------------------------
 # TibiaSweden EQ Catalog Builder
-# - Hämtar seed-sidor från TibiaWiki (Fandom) via MediaWiki Action API (api.php)
-# - Bygger en titel-lista (data/eq_titles.json)
+# - Bygger en titel-lista (data/eq_titles.json) från slot-sidor + set-sidor
+#   (OBS: Denna metod kan plocka upp "skräp-länkar" — men vi har starka guards
+#   som filtrerar bort creatures och icke-item-sidor.)
 # - Processar titlar i batchar (data/eq_state.json) och uppdaterar data/eq_items.json
 #
 # Viktigt:
 # - Scriptet sparar "progress" i repo så GitHub Actions kan fortsätta nästa körning.
-# - Det tar bara items som faktiskt har "protection ... %" i texten (för att hålla katalogen relevant).
+# - Det tar bara items som faktiskt har protection/resist-info.
 # ------------------------------------------------------------
 
 BASE = "https://tibia.fandom.com"
 API  = f"{BASE}/api.php"
 
-UA = {"User-Agent": "TibiaSweden-EQOpt/1.0 (catalog builder)"}
+UA = {"User-Agent": "TibiaSweden-EQOpt/1.1 (catalog builder)"}
 
 ELEMENTS = ["physical", "fire", "ice", "energy", "earth", "death", "holy"]
-VOCS = ["knight", "paladin", "druid", "sorcerer", "monk"]
 
-# Seed-sidor: en lagom bred start som brukar ge bra coverage
+# Seed-sidor: bra bredd, men ger ibland extralänkar (guards tar hand om det)
 SEEDS = [
     ("helmet", "Helmets"),
     ("armor", "Armors"),
@@ -43,12 +44,26 @@ SEEDS = [
     ("_set", "Holy_Protection_Set"),
 ]
 
-# Robust regex: matchar både "protection fire 5%" och "fire +5%" varianter som förekommer i wiki-text
+# Matchar både "protection fire 5%" och "fire 5%"
 PROT_RE = re.compile(
     r"(?:protection\s+)?(physical|fire|ice|energy|earth|death|holy)\s*([+-]?\d+)\s*%",
     re.IGNORECASE
 )
 
+# ------------------------------------------------------------
+# Guards (superviktigt)
+# ------------------------------------------------------------
+def looks_like_creature(page_text: str) -> bool:
+    # Typiska signaler på creature-sidor på TibiaWiki/Fandom
+    return bool(re.search(r"\bHitpoints\b|\bExperience Points\b|\bBestiary\b|\bCreature\b", page_text, re.I))
+
+def looks_like_item(page_text: str) -> bool:
+    # Typiska signaler på item-sidor (räcker för filtrering)
+    return bool(re.search(r"\bImbuements?\b|\bIt weighs\b|\bYou see\b|\bArm:\b|\bProtection\b", page_text, re.I))
+
+# ------------------------------------------------------------
+# IO helpers
+# ------------------------------------------------------------
 def load_json(path, default):
     try:
         with open(path, "r", encoding="utf-8") as f:
@@ -60,10 +75,10 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+# ------------------------------------------------------------
+# MediaWiki parse API
+# ------------------------------------------------------------
 def api_parse_html(page: str) -> str:
-    # MediaWiki Action API: action=parse + prop=text ger HTML
-    # (Detta är standard i MediaWiki-dokumentationen.)
-    # https://www.mediawiki.org/wiki/API:Parsing_wikitext
     params = {
         "action": "parse",
         "page": page,
@@ -87,8 +102,10 @@ def title_from_href(href: str):
         return None
     return title
 
+# ------------------------------------------------------------
+# Build titles (seed pages -> titles)
+# ------------------------------------------------------------
 def build_titles():
-    # Bygg en titel-lista med slot-mappning när vi har den (från slot-seeds)
     titles = {}  # title -> slot
     for slot, page in SEEDS:
         html = api_parse_html(page)
@@ -100,19 +117,24 @@ def build_titles():
             t = title_from_href(href)
             if not t:
                 continue
-            # slot från set-sidor är okänd om vi inte redan har den från slot-sidor
             if t not in titles:
                 titles[t] = None if slot == "_set" else slot
 
         time.sleep(0.25)
 
-    # Packa till lista för enklare state/index
     out = [{"title": t, "slot": titles[t]} for t in sorted(titles.keys())]
     return out
 
+# ------------------------------------------------------------
+# Parse one item page
+# ------------------------------------------------------------
 def parse_item(title: str):
     html = api_parse_html(title)
     text = BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
+
+    # ✅ Guard: släpp inte igenom creatures / icke-items
+    if looks_like_creature(text) or not looks_like_item(text):
+        return None
 
     res = {}
     for m in PROT_RE.finditer(text):
@@ -121,7 +143,7 @@ def parse_item(title: str):
         if el in ELEMENTS:
             res[el] = val
 
-    # Imbuement slots: ofta står "Empty Slot" i item-boxen
+    # Imbuement slots: ofta “Empty Slot” i item-boxen
     imbue_slots = text.lower().count("empty slot")
 
     level = None
@@ -147,6 +169,9 @@ def parse_item(title: str):
         "voc": voc
     }
 
+# ------------------------------------------------------------
+# Main
+# ------------------------------------------------------------
 def main():
     titles_path = "data/eq_titles.json"
     state_path  = "data/eq_state.json"
@@ -173,6 +198,7 @@ def main():
 
     processed = 0
     added = 0
+    skipped_non_item = 0
 
     for i in range(start, end):
         t = titles[i]["title"]
@@ -181,12 +207,15 @@ def main():
         try:
             meta = parse_item(t)
         except Exception:
-            # Skippa hårt om en sida failar (Fandom kan strula ibland)
             state["index"] = i + 1
             continue
 
         processed += 1
         time.sleep(0.25)
+
+        if meta is None:
+            skipped_non_item += 1
+            continue
 
         if not meta["res"]:
             continue
@@ -211,13 +240,18 @@ def main():
     state["lastRun"] = int(time.time())
     state["lastAdded"] = added
     state["lastProcessed"] = processed
+    state["lastSkippedNonItem"] = skipped_non_item
     state["totalTitles"] = len(titles)
     state["totalItems"] = len(items)
 
     save_json(items_path, items)
     save_json(state_path, state)
 
-    print(f"Titles: {len(titles)} | Processed: {processed} | Added: {added} | Items: {len(items)} | Next index: {state['index']}")
+    print(
+        f"Titles: {len(titles)} | Processed: {processed} | "
+        f"SkippedNonItem: {skipped_non_item} | Added: {added} | "
+        f"Items: {len(items)} | Next index: {state['index']}"
+    )
 
 if __name__ == "__main__":
     main()
