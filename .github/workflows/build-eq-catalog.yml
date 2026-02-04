@@ -1,0 +1,40 @@
+name: Build EQ Catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 1"  # Måndagar 03:17 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eq-catalog
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Build catalog
+        run: |
+          python tools/build_eq_items.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/eq_items.json data/eq_titles.json data/eq_state.json
+          git diff --cached --quiet || (git commit -m "Update EQ catalog" && git push)
