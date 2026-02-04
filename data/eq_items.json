@@ -738,5 +738,155 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Askarak_Prince"
+  },
+  {
+    "name": "Barbaria",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Barbaria"
+  },
+  {
+    "name": "Bast Legs",
+    "slot": "legs",
+    "level": 150,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Bast_Legs"
+  },
+  {
+    "name": "Battlemaster Zunzu",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 85,
+      "death": 90,
+      "holy": 100,
+      "ice": 85,
+      "fire": 75,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Battlemaster_Zunzu"
+  },
+  {
+    "name": "Bear Skin",
+    "slot": "armor",
+    "level": 230,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "earth": 11,
+      "fire": -2
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Bear_Skin"
+  },
+  {
+    "name": "Bibby Bloodbath",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 100,
+      "earth": 120
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Bibby_Bloodbath"
+  },
+  {
+    "name": "Big Boss Trolliver",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Big_Boss_Trolliver"
+  },
+  {
+    "name": "Biscuit Barrier",
+    "slot": "shield",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 3,
+      "fire": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Biscuit_Barrier"
+  },
+  {
+    "name": "Bonfire Amulet",
+    "slot": "amulet",
+    "level": 80,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 60,
+      "fire": 40
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Bonfire_Amulet"
+  },
+  {
+    "name": "Boogey",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 110,
+      "ice": 75,
+      "fire": 110,
+      "energy": 110,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Boogey"
   }
 ]
