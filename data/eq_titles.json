@@ -1,0 +1,6738 @@
+[
+  {
+    "title": "Acolyte_of_the_Cult",
+    "slot": "ring"
+  },
+  {
+    "title": "Adamant_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Adept_of_the_Cult",
+    "slot": "armor"
+  },
+  {
+    "title": "Adult_Goanna",
+    "slot": "helmet"
+  },
+  {
+    "title": "Afflicted_Strider",
+    "slot": "armor"
+  },
+  {
+    "title": "Ahau",
+    "slot": "helmet"
+  },
+  {
+    "title": "Albino_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Alchemist%27s_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Alchemist%27s_Notepad",
+    "slot": "offhand"
+  },
+  {
+    "title": "Alicorn_Headguard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Alicorn_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Alloy_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Alptramun",
+    "slot": "armor"
+  },
+  {
+    "title": "Amazon",
+    "slot": "amulet"
+  },
+  {
+    "title": "Amazon_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Amazon_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Amazon_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Amenef_the_Burning",
+    "slot": "armor"
+  },
+  {
+    "title": "Amethyst_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ammunition",
+    "slot": "helmet"
+  },
+  {
+    "title": "Amulet_of_Loss",
+    "slot": "amulet"
+  },
+  {
+    "title": "Amulet_of_Theurgy",
+    "slot": "amulet"
+  },
+  {
+    "title": "Amulets",
+    "slot": "ring"
+  },
+  {
+    "title": "Amulets_and_Necklaces",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ancient_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ancient_Amulet_(Quest)",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ancient_Lion_Knight",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ancient_Scarab",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ancient_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Ancient_Spawn_of_Morgathla",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ancient_Tiara",
+    "slot": "helmet"
+  },
+  {
+    "title": "Angry_Demon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Animated_Feather",
+    "slot": "helmet"
+  },
+  {
+    "title": "Animated_Moohtant",
+    "slot": "ring"
+  },
+  {
+    "title": "Animated_Mummy",
+    "slot": "ring"
+  },
+  {
+    "title": "Annihilon",
+    "slot": "armor"
+  },
+  {
+    "title": "Anomaly",
+    "slot": "helmet"
+  },
+  {
+    "title": "Antidote_Potion",
+    "slot": null
+  },
+  {
+    "title": "Antler-Horn_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Apprentice_Sheng",
+    "slot": "helmet"
+  },
+  {
+    "title": "Arachir_the_Ancient_One",
+    "slot": "shield"
+  },
+  {
+    "title": "Arachnophobica",
+    "slot": "ring"
+  },
+  {
+    "title": "Arbaziloth",
+    "slot": "helmet"
+  },
+  {
+    "title": "Arboreal_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Arboreal_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Arboreal_Tome",
+    "slot": "offhand"
+  },
+  {
+    "title": "Arcane_Dragon_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Arcanomancer_Folio",
+    "slot": "offhand"
+  },
+  {
+    "title": "Arcanomancer_Regalia",
+    "slot": "helmet"
+  },
+  {
+    "title": "Arcanomancer_Sigil",
+    "slot": "ring"
+  },
+  {
+    "title": "Arctic_Faun",
+    "slot": "helmet"
+  },
+  {
+    "title": "Armadile",
+    "slot": "helmet"
+  },
+  {
+    "title": "Armor",
+    "slot": null
+  },
+  {
+    "title": "Armors",
+    "slot": "helmet"
+  },
+  {
+    "title": "Arthei",
+    "slot": "shield"
+  },
+  {
+    "title": "Arthom_the_Hunter",
+    "slot": "armor"
+  },
+  {
+    "title": "Ashmunrah",
+    "slot": "armor"
+  },
+  {
+    "title": "Askarak_Demon",
+    "slot": "legs"
+  },
+  {
+    "title": "Askarak_Lord",
+    "slot": "armor"
+  },
+  {
+    "title": "Askarak_Prince",
+    "slot": "armor"
+  },
+  {
+    "title": "Assassin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Assassin_Star",
+    "slot": "shield"
+  },
+  {
+    "title": "Axe_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Axe_Weapons",
+    "slot": "helmet"
+  },
+  {
+    "title": "Badger_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Baleful_Bunny",
+    "slot": "boots"
+  },
+  {
+    "title": "Ball_Gown",
+    "slot": "armor"
+  },
+  {
+    "title": "Bandana",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bandit",
+    "slot": "helmet"
+  },
+  {
+    "title": "Banshee",
+    "slot": "armor"
+  },
+  {
+    "title": "Barbaria",
+    "slot": "armor"
+  },
+  {
+    "title": "Barbarian_Bloodwalker",
+    "slot": "helmet"
+  },
+  {
+    "title": "Barbarian_Brutetamer",
+    "slot": "armor"
+  },
+  {
+    "title": "Barbarian_Headsplitter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Barbarian_Skullhunter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bashmu",
+    "slot": "amulet"
+  },
+  {
+    "title": "Bast_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Bast_Skirt",
+    "slot": "legs"
+  },
+  {
+    "title": "Battle_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Battlemaster_Zunzu",
+    "slot": "helmet"
+  },
+  {
+    "title": "Batwing_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bear_Skin",
+    "slot": "armor"
+  },
+  {
+    "title": "Beetle_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Behemoth",
+    "slot": "armor"
+  },
+  {
+    "title": "Bellicose_Orger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Belted_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Betrayed_Wraith",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bibby_Bloodbath",
+    "slot": "helmet"
+  },
+  {
+    "title": "Big_Boss_Trolliver",
+    "slot": "boots"
+  },
+  {
+    "title": "Biscuit_Barrier",
+    "slot": "shield"
+  },
+  {
+    "title": "Biting_Book",
+    "slot": "amulet"
+  },
+  {
+    "title": "Black_Knight",
+    "slot": "helmet"
+  },
+  {
+    "title": "Black_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Black_Vixen",
+    "slot": "ring"
+  },
+  {
+    "title": "Blemished_Spawn",
+    "slot": "armor"
+  },
+  {
+    "title": "Blessed_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Blessing_Charms",
+    "slot": "helmet"
+  },
+  {
+    "title": "Blightwalker",
+    "slot": "armor"
+  },
+  {
+    "title": "Blister_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Blood_Beast",
+    "slot": "amulet"
+  },
+  {
+    "title": "Blood_Crab",
+    "slot": "armor"
+  },
+  {
+    "title": "Blood_Hand",
+    "slot": "helmet"
+  },
+  {
+    "title": "Blood_Priest",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bloodback",
+    "slot": "armor"
+  },
+  {
+    "title": "Blue_Djinn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Blue_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Blue_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Blue_Spectacles",
+    "slot": "helmet"
+  },
+  {
+    "title": "Boar_Man",
+    "slot": "shield"
+  },
+  {
+    "title": "Body_Equipment",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bog_Raider",
+    "slot": "armor"
+  },
+  {
+    "title": "Bone_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Bonebeast",
+    "slot": "armor"
+  },
+  {
+    "title": "Bonelord",
+    "slot": "shield"
+  },
+  {
+    "title": "Bonelord_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bonelord_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Bonfire_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Bony_Sea_Devil",
+    "slot": "armor"
+  },
+  {
+    "title": "Boogey",
+    "slot": "armor"
+  },
+  {
+    "title": "Boogy",
+    "slot": "offhand"
+  },
+  {
+    "title": "Book_of_Lies",
+    "slot": "offhand"
+  },
+  {
+    "title": "Books",
+    "slot": "helmet"
+  },
+  {
+    "title": "Boots",
+    "slot": "helmet"
+  },
+  {
+    "title": "Boots_of_Enlightenment",
+    "slot": "boots"
+  },
+  {
+    "title": "Boots_of_Haste",
+    "slot": "boots"
+  },
+  {
+    "title": "Boots_of_Homecoming",
+    "slot": "boots"
+  },
+  {
+    "title": "Boots_of_Homecoming_(Used)",
+    "slot": "boots"
+  },
+  {
+    "title": "Boots_of_Waterwalking",
+    "slot": "boots"
+  },
+  {
+    "title": "Boreth",
+    "slot": "armor"
+  },
+  {
+    "title": "Brachiodemon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bragrumol",
+    "slot": "armor"
+  },
+  {
+    "title": "Brain_Head",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brain_Squid",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brain_in_a_Jar",
+    "slot": "offhand"
+  },
+  {
+    "title": "Braindeath",
+    "slot": "helmet"
+  },
+  {
+    "title": "Branchy_Crawler",
+    "slot": "legs"
+  },
+  {
+    "title": "Brandon%27s_Wedding_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Brass_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Brass_Button",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brass_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brass_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Brass_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Breach_Brood",
+    "slot": "legs"
+  },
+  {
+    "title": "Bretzecutioner",
+    "slot": "helmet"
+  },
+  {
+    "title": "Bridal_Wreath",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brimstone_Bug",
+    "slot": "ring"
+  },
+  {
+    "title": "Brinebrute_Inferniarch",
+    "slot": "ring"
+  },
+  {
+    "title": "Brittle_Skeleton",
+    "slot": "helmet"
+  },
+  {
+    "title": "Broken_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Broken_Iks_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Broken_Iks_Faulds",
+    "slot": "legs"
+  },
+  {
+    "title": "Broken_Iks_Headpiece",
+    "slot": "helmet"
+  },
+  {
+    "title": "Broken_Iks_Sandals",
+    "slot": "boots"
+  },
+  {
+    "title": "Broken_Ring_of_Ending",
+    "slot": "ring"
+  },
+  {
+    "title": "Broken_Shaper",
+    "slot": "boots"
+  },
+  {
+    "title": "Broken_Visor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Broken_Wedding_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Broken_Wooden_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Bronze_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Bronze_Medal",
+    "slot": "amulet"
+  },
+  {
+    "title": "Bronze_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Broodrider_Inferniarch",
+    "slot": "legs"
+  },
+  {
+    "title": "Bruise_Payne",
+    "slot": "helmet"
+  },
+  {
+    "title": "Brutus_Bloodbeard",
+    "slot": "armor"
+  },
+  {
+    "title": "Buckle",
+    "slot": "armor"
+  },
+  {
+    "title": "Bulltaur_Alchemist",
+    "slot": "legs"
+  },
+  {
+    "title": "Bullwark",
+    "slot": "armor"
+  },
+  {
+    "title": "Bunnyslippers",
+    "slot": "boots"
+  },
+  {
+    "title": "Burial_Shroud",
+    "slot": "armor"
+  },
+  {
+    "title": "Burning",
+    "slot": null
+  },
+  {
+    "title": "Burning_Book",
+    "slot": "helmet"
+  },
+  {
+    "title": "Burning_Gladiator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Burster",
+    "slot": "legs"
+  },
+  {
+    "title": "Burster_Spectre",
+    "slot": "amulet"
+  },
+  {
+    "title": "Butterfly_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Calculators",
+    "slot": null
+  },
+  {
+    "title": "Calopteryx_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Candy_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Capricious_Phantom",
+    "slot": "helmet"
+  },
+  {
+    "title": "Captain_Jones",
+    "slot": "armor"
+  },
+  {
+    "title": "Carapace_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Carnivostrich",
+    "slot": "boots"
+  },
+  {
+    "title": "Carpets",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cart_Packed_with_Gold",
+    "slot": "amulet"
+  },
+  {
+    "title": "Castle_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Cave_Chimera",
+    "slot": "armor"
+  },
+  {
+    "title": "Cave_Devourer",
+    "slot": "ring"
+  },
+  {
+    "title": "Ceremonial_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Chain_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Chain_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Chain_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Chakoya_Toolshaper",
+    "slot": "shield"
+  },
+  {
+    "title": "Chakoya_Tribewarden",
+    "slot": "shield"
+  },
+  {
+    "title": "Chakoya_Windcaller",
+    "slot": "helmet"
+  },
+  {
+    "title": "Chaos_Critical_Dice_(Replica)",
+    "slot": "armor"
+  },
+  {
+    "title": "Charged_Alicorn_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Charged_Arboreal_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Charged_Arcanomancer_Sigil",
+    "slot": "ring"
+  },
+  {
+    "title": "Charged_Ethereal_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Charged_Spiritthorn_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Charmer%27s_Tiara",
+    "slot": "helmet"
+  },
+  {
+    "title": "Chasm_Spawn",
+    "slot": "amulet"
+  },
+  {
+    "title": "Chizzoron_the_Distorter",
+    "slot": "armor"
+  },
+  {
+    "title": "Chocolatey_Dragon_Scale_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Choking_Fear",
+    "slot": "armor"
+  },
+  {
+    "title": "Claw_of_%27The_Noxious_Spawn%27",
+    "slot": "ring"
+  },
+  {
+    "title": "Cliff_Strider",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cloak_of_Terror",
+    "slot": "helmet"
+  },
+  {
+    "title": "Clomp",
+    "slot": "shield"
+  },
+  {
+    "title": "Clothing_Accessories",
+    "slot": "helmet"
+  },
+  {
+    "title": "Club_Fighting",
+    "slot": null
+  },
+  {
+    "title": "Club_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Club_Weapons",
+    "slot": "helmet"
+  },
+  {
+    "title": "Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Cobra_Assassin",
+    "slot": "amulet"
+  },
+  {
+    "title": "Cobra_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Cobra_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cobra_Hood",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cobra_Scout",
+    "slot": "ring"
+  },
+  {
+    "title": "Cobra_Vizier",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cocoa_Grimoire",
+    "slot": "offhand"
+  },
+  {
+    "title": "Coconut_Shoes",
+    "slot": "boots"
+  },
+  {
+    "title": "Collar_of_Blue_Plasma",
+    "slot": "amulet"
+  },
+  {
+    "title": "Collar_of_Green_Plasma",
+    "slot": "amulet"
+  },
+  {
+    "title": "Collar_of_Orange_Plasma",
+    "slot": "amulet"
+  },
+  {
+    "title": "Collar_of_Red_Plasma",
+    "slot": "amulet"
+  },
+  {
+    "title": "Conch_Shell_Horn",
+    "slot": null
+  },
+  {
+    "title": "Coned_Hat_of_Enlightenment",
+    "slot": "helmet"
+  },
+  {
+    "title": "Containers",
+    "slot": "helmet"
+  },
+  {
+    "title": "Contest_Prizes",
+    "slot": "helmet"
+  },
+  {
+    "title": "Control_Tower",
+    "slot": "armor"
+  },
+  {
+    "title": "Copper_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Corrupted_Ghost",
+    "slot": "amulet"
+  },
+  {
+    "title": "Corrupted_Skeleton",
+    "slot": "amulet"
+  },
+  {
+    "title": "Corym_Charlatan",
+    "slot": "armor"
+  },
+  {
+    "title": "Corym_Skirmisher",
+    "slot": "armor"
+  },
+  {
+    "title": "Corym_Vanguard",
+    "slot": "armor"
+  },
+  {
+    "title": "Count_Vlarkorth",
+    "slot": "helmet"
+  },
+  {
+    "title": "Countess_Sorrow",
+    "slot": "armor"
+  },
+  {
+    "title": "Courage_Leech",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crape_Man",
+    "slot": "armor"
+  },
+  {
+    "title": "Crawler",
+    "slot": "legs"
+  },
+  {
+    "title": "Crazed_Beggar",
+    "slot": "ring"
+  },
+  {
+    "title": "Crazed_Dwarf",
+    "slot": "armor"
+  },
+  {
+    "title": "Crazed_Summer_Rearguard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crazed_Summer_Vanguard",
+    "slot": "armor"
+  },
+  {
+    "title": "Crazed_Winter_Rearguard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crazed_Winter_Vanguard",
+    "slot": "armor"
+  },
+  {
+    "title": "Creamy_Grimoire",
+    "slot": "offhand"
+  },
+  {
+    "title": "Creature_Products",
+    "slot": "helmet"
+  },
+  {
+    "title": "Creatures",
+    "slot": "shield"
+  },
+  {
+    "title": "Crest_of_the_Deep_Seas",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crocodile",
+    "slot": "boots"
+  },
+  {
+    "title": "Crocodile_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crown_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Crown_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crown_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Crown_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Crude_Umbral_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Crusader_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crustacea_Gigantica",
+    "slot": "ring"
+  },
+  {
+    "title": "Crypt_Defiler",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crypt_Shambler",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crypt_Warden",
+    "slot": "amulet"
+  },
+  {
+    "title": "Crystal_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Crystal_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Crystal_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Crystal_Spider",
+    "slot": "helmet"
+  },
+  {
+    "title": "Crystal_Wolf",
+    "slot": "armor"
+  },
+  {
+    "title": "Crystalline_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Cult_Believer",
+    "slot": "ring"
+  },
+  {
+    "title": "Cult_Enforcer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cult_Scholar",
+    "slot": "ring"
+  },
+  {
+    "title": "Cure_Burning",
+    "slot": null
+  },
+  {
+    "title": "Cure_Curse",
+    "slot": null
+  },
+  {
+    "title": "Cure_Electrification",
+    "slot": null
+  },
+  {
+    "title": "Cure_Poison",
+    "slot": null
+  },
+  {
+    "title": "Cure_Poison_Rune",
+    "slot": null
+  },
+  {
+    "title": "Curse",
+    "slot": null
+  },
+  {
+    "title": "Cursed_Ape",
+    "slot": "armor"
+  },
+  {
+    "title": "Cursed_Book",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cursed_Prospector",
+    "slot": "armor"
+  },
+  {
+    "title": "Custodian",
+    "slot": "ring"
+  },
+  {
+    "title": "Cyclops",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cyclops_Drone",
+    "slot": "helmet"
+  },
+  {
+    "title": "Cyclops_Smith",
+    "slot": "helmet"
+  },
+  {
+    "title": "Damaged_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Damaged_Worker_Golem",
+    "slot": "ring"
+  },
+  {
+    "title": "Dark_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Dark_Carnisylvan",
+    "slot": "offhand"
+  },
+  {
+    "title": "Dark_Faun",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dark_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dark_Lord%27s_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Dark_Monk",
+    "slot": "boots"
+  },
+  {
+    "title": "Dark_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Dark_Torturer",
+    "slot": "legs"
+  },
+  {
+    "title": "Dark_Vision_Bandana",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dark_Whispers",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dark_Wizard%27s_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dark_Wizard%27s_Crown_(Activated)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Darkfang",
+    "slot": "ring"
+  },
+  {
+    "title": "Dauntless_Dragon_Scale_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Dawnfire_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dawnfire_Pantaloons",
+    "slot": "legs"
+  },
+  {
+    "title": "Dawnfire_Sherwani",
+    "slot": "armor"
+  },
+  {
+    "title": "Dawnfly",
+    "slot": "armor"
+  },
+  {
+    "title": "Deadeye_Devious",
+    "slot": "armor"
+  },
+  {
+    "title": "Death_Damage",
+    "slot": null
+  },
+  {
+    "title": "Death_Gaze",
+    "slot": "shield"
+  },
+  {
+    "title": "Death_Oyoroi",
+    "slot": "armor"
+  },
+  {
+    "title": "Death_Priest",
+    "slot": "offhand"
+  },
+  {
+    "title": "Death_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Deathbine",
+    "slot": "boots"
+  },
+  {
+    "title": "Deathling_Scout",
+    "slot": "shield"
+  },
+  {
+    "title": "Deathling_Spellsinger",
+    "slot": "shield"
+  },
+  {
+    "title": "Decorations",
+    "slot": "helmet"
+  },
+  {
+    "title": "Deepling_Ceremonial_Dagger",
+    "slot": null
+  },
+  {
+    "title": "Deepling_Elite",
+    "slot": "shield"
+  },
+  {
+    "title": "Deepling_Fork",
+    "slot": null
+  },
+  {
+    "title": "Deepling_Master_Librarian",
+    "slot": "ring"
+  },
+  {
+    "title": "Deepling_Scout",
+    "slot": "ring"
+  },
+  {
+    "title": "Deepling_Spellsinger",
+    "slot": "ring"
+  },
+  {
+    "title": "Deepling_Warrior",
+    "slot": "shield"
+  },
+  {
+    "title": "Deepsea_Blood_Crab",
+    "slot": "armor"
+  },
+  {
+    "title": "Deepworm",
+    "slot": "ring"
+  },
+  {
+    "title": "Defiler",
+    "slot": "ring"
+  },
+  {
+    "title": "Demodras",
+    "slot": "armor"
+  },
+  {
+    "title": "Demon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demon_(Goblin)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demon_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Demon_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demon_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Demon_Mengu",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demon_Outcast",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demon_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Demon_Skeleton",
+    "slot": "helmet"
+  },
+  {
+    "title": "Demonbone_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Demonfang_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Depowered_Minotaur",
+    "slot": "armor"
+  },
+  {
+    "title": "Depth_Calcei",
+    "slot": "boots"
+  },
+  {
+    "title": "Depth_Galea",
+    "slot": "helmet"
+  },
+  {
+    "title": "Depth_Lorica",
+    "slot": "armor"
+  },
+  {
+    "title": "Depth_Ocrea",
+    "slot": "legs"
+  },
+  {
+    "title": "Depth_Scutum",
+    "slot": "shield"
+  },
+  {
+    "title": "Despor",
+    "slot": "armor"
+  },
+  {
+    "title": "Destroyer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Devil_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Devourer",
+    "slot": "armor"
+  },
+  {
+    "title": "Dharalion",
+    "slot": "armor"
+  },
+  {
+    "title": "Diabolic_Imp",
+    "slot": "helmet"
+  },
+  {
+    "title": "Diamond_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Diamond_Servant",
+    "slot": "armor"
+  },
+  {
+    "title": "Diamond_Servant_Replica",
+    "slot": "armor"
+  },
+  {
+    "title": "Diblis_the_Fair",
+    "slot": "shield"
+  },
+  {
+    "title": "Dipthrah",
+    "slot": "ring"
+  },
+  {
+    "title": "Diremaw",
+    "slot": "amulet"
+  },
+  {
+    "title": "Dirtbeard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Distance_Weapons",
+    "slot": "helmet"
+  },
+  {
+    "title": "Distorted_Phantom",
+    "slot": "offhand"
+  },
+  {
+    "title": "Divine_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Doctor_Perhaps",
+    "slot": "helmet"
+  },
+  {
+    "title": "Documents_and_Papers",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dolls_and_Bears",
+    "slot": "helmet"
+  },
+  {
+    "title": "Doublet",
+    "slot": "armor"
+  },
+  {
+    "title": "Dracola",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dragon_Hoard",
+    "slot": "armor"
+  },
+  {
+    "title": "Dragon_Lord",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dragon_Lord_Hatchling",
+    "slot": "boots"
+  },
+  {
+    "title": "Dragon_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Dragon_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Dragon_Scale_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Dragon_Scale_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dragon_Scale_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Dragon_Scale_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Dragon_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Draken_Abomination",
+    "slot": "helmet"
+  },
+  {
+    "title": "Draken_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Draken_Elite",
+    "slot": "helmet"
+  },
+  {
+    "title": "Draken_Spellweaver",
+    "slot": "armor"
+  },
+  {
+    "title": "Draken_Warmaster",
+    "slot": "armor"
+  },
+  {
+    "title": "Dread_Intruder",
+    "slot": "ring"
+  },
+  {
+    "title": "Dreadbeast",
+    "slot": "armor"
+  },
+  {
+    "title": "Dreadfire_Headpiece",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dreadful_Disruptor",
+    "slot": "ring"
+  },
+  {
+    "title": "Dream_Shroud",
+    "slot": "armor"
+  },
+  {
+    "title": "Drillworm",
+    "slot": "ring"
+  },
+  {
+    "title": "Druid",
+    "slot": null
+  },
+  {
+    "title": "Druid%27s_Apparition",
+    "slot": "armor"
+  },
+  {
+    "title": "Druids",
+    "slot": "helmet"
+  },
+  {
+    "title": "Drume",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dryad",
+    "slot": "helmet"
+  },
+  {
+    "title": "Duke_Krule",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dwarf",
+    "slot": "armor"
+  },
+  {
+    "title": "Dwarf_Geomancer",
+    "slot": "boots"
+  },
+  {
+    "title": "Dwarf_Guard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dwarf_Miner",
+    "slot": "armor"
+  },
+  {
+    "title": "Dwarf_Soldier",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dwarven_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Dwarven_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dwarven_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Dwarven_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Dwarven_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Dworc_Fleshhunter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dworc_Venomsniper",
+    "slot": "helmet"
+  },
+  {
+    "title": "Dworc_Voodoomaster",
+    "slot": "helmet"
+  },
+  {
+    "title": "Eagle_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Earl_Osam",
+    "slot": "helmet"
+  },
+  {
+    "title": "Earth_Damage",
+    "slot": null
+  },
+  {
+    "title": "Earth_Overlord",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthborn_Titan_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthheart_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthheart_Hauberk",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthheart_Platemail",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthmind_Raiment",
+    "slot": "armor"
+  },
+  {
+    "title": "Earthsoul_Tabard",
+    "slot": "armor"
+  },
+  {
+    "title": "Earworm",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ectoplasmic_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Eerie_Song_Book",
+    "slot": "shield"
+  },
+  {
+    "title": "Efreet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ekatrix",
+    "slot": "armor"
+  },
+  {
+    "title": "Elder_Bonelord",
+    "slot": "helmet"
+  },
+  {
+    "title": "Elder_Mummy",
+    "slot": "ring"
+  },
+  {
+    "title": "Elder_Wyrm",
+    "slot": "armor"
+  },
+  {
+    "title": "Eldritch_Breeches",
+    "slot": "legs"
+  },
+  {
+    "title": "Eldritch_Cowl",
+    "slot": "helmet"
+  },
+  {
+    "title": "Eldritch_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Eldritch_Folio",
+    "slot": "offhand"
+  },
+  {
+    "title": "Eldritch_Hood",
+    "slot": "helmet"
+  },
+  {
+    "title": "Eldritch_Monk_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Eldritch_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Eldritch_Tome",
+    "slot": "offhand"
+  },
+  {
+    "title": "Electrified",
+    "slot": null
+  },
+  {
+    "title": "Elephant",
+    "slot": "shield"
+  },
+  {
+    "title": "Elf",
+    "slot": "helmet"
+  },
+  {
+    "title": "Elf_Arcanist",
+    "slot": "armor"
+  },
+  {
+    "title": "Elf_Overseer",
+    "slot": "shield"
+  },
+  {
+    "title": "Elf_Scout",
+    "slot": "boots"
+  },
+  {
+    "title": "Elite_Draken_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Elite_Draken_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Elven_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Elven_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Elven_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Embrace_of_Nature",
+    "slot": "armor"
+  },
+  {
+    "title": "Emerald_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Blister_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Enchanted_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enchanted_Merudri_Brooch",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Pendulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Sleep_Shawl",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Theurgic_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Turtle_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Helmet_(Axe)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Helmet_(Club)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Helmet_(Distance)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Helmet_(Magic)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enchanted_Werewolf_Helmet_(Sword)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Energetic_Book",
+    "slot": "helmet"
+  },
+  {
+    "title": "Energized_Limb",
+    "slot": null
+  },
+  {
+    "title": "Energuardian_of_Tales",
+    "slot": "armor"
+  },
+  {
+    "title": "Energy_Damage",
+    "slot": null
+  },
+  {
+    "title": "Energy_Elemental",
+    "slot": "shield"
+  },
+  {
+    "title": "Energy_Overlord",
+    "slot": "armor"
+  },
+  {
+    "title": "Energy_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Energy_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Enfeebled_Silencer",
+    "slot": "legs"
+  },
+  {
+    "title": "Engraved_Wedding_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Enlightened_of_the_Cult",
+    "slot": "armor"
+  },
+  {
+    "title": "Enraged_Soul",
+    "slot": "armor"
+  },
+  {
+    "title": "Enslaved_Dwarf",
+    "slot": "helmet"
+  },
+  {
+    "title": "Enusat_the_Onyx_Wing",
+    "slot": "helmet"
+  },
+  {
+    "title": "Eradicator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Esmeralda",
+    "slot": "armor"
+  },
+  {
+    "title": "Essence_of_Malice",
+    "slot": "helmet"
+  },
+  {
+    "title": "Eternal_Guardian",
+    "slot": "shield"
+  },
+  {
+    "title": "Ethereal_Coned_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ethereal_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Ethershreck",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ethno_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Evil_Prospector",
+    "slot": "helmet"
+  },
+  {
+    "title": "Execowtioner",
+    "slot": "armor"
+  },
+  {
+    "title": "Exotic_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Exotic_Bat",
+    "slot": "amulet"
+  },
+  {
+    "title": "Exotic_Cave_Spider",
+    "slot": "armor"
+  },
+  {
+    "title": "Exotic_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Eyeless_Devourer",
+    "slot": "amulet"
+  },
+  {
+    "title": "Fabulous_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Faceless_Bane",
+    "slot": "shield"
+  },
+  {
+    "title": "Fahim_the_Wise",
+    "slot": "helmet"
+  },
+  {
+    "title": "Falcon_Circlet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Falcon_Coif",
+    "slot": "helmet"
+  },
+  {
+    "title": "Falcon_Escutcheon",
+    "slot": "shield"
+  },
+  {
+    "title": "Falcon_Greaves",
+    "slot": "legs"
+  },
+  {
+    "title": "Falcon_Knight",
+    "slot": "armor"
+  },
+  {
+    "title": "Falcon_Mace",
+    "slot": null
+  },
+  {
+    "title": "Falcon_Paladin",
+    "slot": "armor"
+  },
+  {
+    "title": "Falcon_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Falcon_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Falcon_Wand",
+    "slot": null
+  },
+  {
+    "title": "Family_Signet_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Fansite_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Faun",
+    "slot": "helmet"
+  },
+  {
+    "title": "Fazzrah",
+    "slot": "armor"
+  },
+  {
+    "title": "Feather_Headdress",
+    "slot": "helmet"
+  },
+  {
+    "title": "Feral_Sphinx",
+    "slot": "helmet"
+  },
+  {
+    "title": "Feral_Werecrocodile",
+    "slot": "ring"
+  },
+  {
+    "title": "Fernfang",
+    "slot": "armor"
+  },
+  {
+    "title": "Feroxa",
+    "slot": "helmet"
+  },
+  {
+    "title": "Feroxa_(Gloom_Wolf)",
+    "slot": "armor"
+  },
+  {
+    "title": "Ferumbras",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ferumbras%27_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ferumbras%27_Candy_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ferumbras%27_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ferumbras_Mortal_Shell",
+    "slot": "helmet"
+  },
+  {
+    "title": "Feverbloom_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Feversleep",
+    "slot": "armor"
+  },
+  {
+    "title": "Fiery_Rainbow_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Filthy_Bunnyslippers",
+    "slot": "boots"
+  },
+  {
+    "title": "Fire_Damage",
+    "slot": null
+  },
+  {
+    "title": "Fire_Devil",
+    "slot": "shield"
+  },
+  {
+    "title": "Fire_Overlord",
+    "slot": "armor"
+  },
+  {
+    "title": "Fireborn_Giant_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Fireheart_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Fireheart_Hauberk",
+    "slot": "armor"
+  },
+  {
+    "title": "Fireheart_Platemail",
+    "slot": "armor"
+  },
+  {
+    "title": "Firemind_Raiment",
+    "slot": "armor"
+  },
+  {
+    "title": "Firesoul_Tabard",
+    "slot": "armor"
+  },
+  {
+    "title": "Firewalker_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Fish_Tail_(Equipped)",
+    "slot": "boots"
+  },
+  {
+    "title": "Fish_Tail_(Unequipped)",
+    "slot": "boots"
+  },
+  {
+    "title": "Flameborn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Flamecaller_Zazrak",
+    "slot": "armor"
+  },
+  {
+    "title": "Fleshcrawler",
+    "slot": "armor"
+  },
+  {
+    "title": "Fleshslicer",
+    "slot": "ring"
+  },
+  {
+    "title": "Flimsy_Lost_Soul",
+    "slot": "amulet"
+  },
+  {
+    "title": "Flower_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Flower_Wreath",
+    "slot": "helmet"
+  },
+  {
+    "title": "Foam_Stalker",
+    "slot": "legs"
+  },
+  {
+    "title": "Focus_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Food",
+    "slot": "helmet"
+  },
+  {
+    "title": "Foreman_Kneebiter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Foxtail_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Freakish_Lost_Soul",
+    "slot": "ring"
+  },
+  {
+    "title": "Friendship_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Frost_Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Frost_Dragon_Hatchling",
+    "slot": "offhand"
+  },
+  {
+    "title": "Frost_Flower_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "Frost_Giant",
+    "slot": "helmet"
+  },
+  {
+    "title": "Frost_Giantess",
+    "slot": "helmet"
+  },
+  {
+    "title": "Frost_Troll",
+    "slot": "armor"
+  },
+  {
+    "title": "Frostflower_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Frostheart_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Frostheart_Hauberk",
+    "slot": "armor"
+  },
+  {
+    "title": "Frostheart_Platemail",
+    "slot": "armor"
+  },
+  {
+    "title": "Frostmind_Raiment",
+    "slot": "armor"
+  },
+  {
+    "title": "Frostsoul_Tabard",
+    "slot": "armor"
+  },
+  {
+    "title": "Frozen_Claw",
+    "slot": "ring"
+  },
+  {
+    "title": "Frozen_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Fur_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Fur_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Fur_Cap",
+    "slot": "helmet"
+  },
+  {
+    "title": "Furious_Frock",
+    "slot": "armor"
+  },
+  {
+    "title": "Furious_Scorpion",
+    "slot": "helmet"
+  },
+  {
+    "title": "Furniture",
+    "slot": "helmet"
+  },
+  {
+    "title": "Fury",
+    "slot": "legs"
+  },
+  {
+    "title": "Furyosa",
+    "slot": "armor"
+  },
+  {
+    "title": "Gaffir",
+    "slot": "offhand"
+  },
+  {
+    "title": "Galea_Mortis",
+    "slot": "helmet"
+  },
+  {
+    "title": "Game_Tokens",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gang_Member",
+    "slot": "legs"
+  },
+  {
+    "title": "Gargoyle",
+    "slot": "helmet"
+  },
+  {
+    "title": "Garlic_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Garnet_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Gaz%27haragoth",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gazer_Spectre",
+    "slot": "armor"
+  },
+  {
+    "title": "Gearwheel_Chain",
+    "slot": "amulet"
+  },
+  {
+    "title": "Gelidrazah_the_Frozen",
+    "slot": "helmet"
+  },
+  {
+    "title": "General_Murius",
+    "slot": "armor"
+  },
+  {
+    "title": "Ghastly_Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ghazbaran",
+    "slot": "armor"
+  },
+  {
+    "title": "Ghazbaran_Oyoroi",
+    "slot": "armor"
+  },
+  {
+    "title": "Ghost",
+    "slot": "armor"
+  },
+  {
+    "title": "Ghost_Chestplate",
+    "slot": "armor"
+  },
+  {
+    "title": "Ghost_of_a_Planegazer",
+    "slot": "ring"
+  },
+  {
+    "title": "Ghoul",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ghulosh",
+    "slot": "offhand"
+  },
+  {
+    "title": "Giant_Spider",
+    "slot": "helmet"
+  },
+  {
+    "title": "Giant_Spider_(Nostalgia)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gill_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Gill_Gugel",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gill_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Gill_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Girl%27s_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Girtablilu_Warrior",
+    "slot": "armor"
+  },
+  {
+    "title": "Glacier_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Glacier_Kilt",
+    "slot": "legs"
+  },
+  {
+    "title": "Glacier_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Glacier_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Glacier_Set",
+    "slot": null
+  },
+  {
+    "title": "Glacier_Shoes",
+    "slot": "boots"
+  },
+  {
+    "title": "Gladiator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gloom_Wolf",
+    "slot": "amulet"
+  },
+  {
+    "title": "Glooth_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Glooth_Anemone",
+    "slot": "armor"
+  },
+  {
+    "title": "Glooth_Bandit",
+    "slot": "helmet"
+  },
+  {
+    "title": "Glooth_Battery",
+    "slot": "boots"
+  },
+  {
+    "title": "Glooth_Blob",
+    "slot": "amulet"
+  },
+  {
+    "title": "Glooth_Bomb",
+    "slot": "ring"
+  },
+  {
+    "title": "Glooth_Brigand",
+    "slot": "helmet"
+  },
+  {
+    "title": "Glooth_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Glooth_Fairy",
+    "slot": "helmet"
+  },
+  {
+    "title": "Glooth_Golem",
+    "slot": "helmet"
+  },
+  {
+    "title": "Glowing_Rubbish_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Gnome_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Gnome_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gnome_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Gnome_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Gnomish_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Gnomish_Footwraps",
+    "slot": "boots"
+  },
+  {
+    "title": "Goblin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Goblin_Assassin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Goblin_Leader",
+    "slot": "helmet"
+  },
+  {
+    "title": "Goblin_Scavenger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gold_Medal",
+    "slot": "amulet"
+  },
+  {
+    "title": "Gold_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Golden_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Golden_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Golden_Blessed_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Golden_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Golden_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Golden_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Golden_Horned_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Golden_Hyaena_Pendant",
+    "slot": "amulet"
+  },
+  {
+    "title": "Golden_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Golden_Scorpion_Pendant",
+    "slot": "amulet"
+  },
+  {
+    "title": "Golden_Servant",
+    "slot": "armor"
+  },
+  {
+    "title": "Golden_Servant_Replica",
+    "slot": "armor"
+  },
+  {
+    "title": "Golgordan",
+    "slot": "helmet"
+  },
+  {
+    "title": "Goo_Shell",
+    "slot": "armor"
+  },
+  {
+    "title": "Gore_Horn",
+    "slot": "armor"
+  },
+  {
+    "title": "Gorerilla",
+    "slot": "armor"
+  },
+  {
+    "title": "Gorger_Inferniarch",
+    "slot": "ring"
+  },
+  {
+    "title": "Gorgo",
+    "slot": "armor"
+  },
+  {
+    "title": "Gorzindel",
+    "slot": "armor"
+  },
+  {
+    "title": "Gourd",
+    "slot": "shield"
+  },
+  {
+    "title": "Gozzler",
+    "slot": "shield"
+  },
+  {
+    "title": "Grand_Canon_Dominus",
+    "slot": "armor"
+  },
+  {
+    "title": "Grand_Chaplain_Gaunder",
+    "slot": "armor"
+  },
+  {
+    "title": "Grand_Commander_Soeren",
+    "slot": "helmet"
+  },
+  {
+    "title": "Grand_Master_Oberon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Grand_Mother_Foulscale",
+    "slot": "helmet"
+  },
+  {
+    "title": "Grandfather_Tridian",
+    "slot": "amulet"
+  },
+  {
+    "title": "Grasshopper_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Grave_Guard",
+    "slot": "ring"
+  },
+  {
+    "title": "Grave_Robber",
+    "slot": "helmet"
+  },
+  {
+    "title": "Gravedigger",
+    "slot": "ring"
+  },
+  {
+    "title": "Gravelord_Oshuran",
+    "slot": "armor"
+  },
+  {
+    "title": "Great_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Greater_Garlic_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Green_Demon_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Green_Demon_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Green_Demon_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Green_Demon_Slippers",
+    "slot": "boots"
+  },
+  {
+    "title": "Green_Djinn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Green_Tunic",
+    "slot": "armor"
+  },
+  {
+    "title": "Greenwood_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Griffin_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Grim_Reaper",
+    "slot": "armor"
+  },
+  {
+    "title": "Grimeleech",
+    "slot": "helmet"
+  },
+  {
+    "title": "Groam",
+    "slot": "ring"
+  },
+  {
+    "title": "Grorlam",
+    "slot": "armor"
+  },
+  {
+    "title": "Grynch_Clan_Goblin",
+    "slot": "amulet"
+  },
+  {
+    "title": "Gryphon_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Guard_Captain_Quaid",
+    "slot": "helmet"
+  },
+  {
+    "title": "Guardian_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Guardian_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Guardian_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Guardian_of_Tales",
+    "slot": "armor"
+  },
+  {
+    "title": "Hairman_the_Huge",
+    "slot": "armor"
+  },
+  {
+    "title": "Hand_of_Cursed_Fate",
+    "slot": "armor"
+  },
+  {
+    "title": "Harmony_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Harpy",
+    "slot": "armor"
+  },
+  {
+    "title": "Hat_of_the_Mad",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hatebreeder",
+    "slot": "helmet"
+  },
+  {
+    "title": "Haunted_Dragon",
+    "slot": "armor"
+  },
+  {
+    "title": "Haunted_Mirror_Piece",
+    "slot": "shield"
+  },
+  {
+    "title": "Haunted_Treeling",
+    "slot": "ring"
+  },
+  {
+    "title": "Hazardous_Phantom",
+    "slot": "armor"
+  },
+  {
+    "title": "Heat_Core",
+    "slot": "armor"
+  },
+  {
+    "title": "Heavy_Metal_T-Shirt",
+    "slot": "armor"
+  },
+  {
+    "title": "Hellfire_Fighter",
+    "slot": "armor"
+  },
+  {
+    "title": "Hellflayer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hellgorak",
+    "slot": "armor"
+  },
+  {
+    "title": "Hellhound",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hellhunter_Inferniarch",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hellspawn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hellstalker_Visor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_Nature",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_Ultimate_Terror",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_the_Ancients",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_the_Ancients_(Enchanted)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_the_Deep",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmet_of_the_Lost",
+    "slot": "helmet"
+  },
+  {
+    "title": "Helmets",
+    "slot": "armor"
+  },
+  {
+    "title": "Hemming",
+    "slot": "ring"
+  },
+  {
+    "title": "Hero",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hibiscus_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Hide",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hideous_Fungus",
+    "slot": "armor"
+  },
+  {
+    "title": "High_Templar_Cobrass",
+    "slot": "helmet"
+  },
+  {
+    "title": "High_Voltage_Elemental",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hirintror",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hive_Overseer",
+    "slot": "armor"
+  },
+  {
+    "title": "Holy_Damage",
+    "slot": null
+  },
+  {
+    "title": "Horadron",
+    "slot": "armor"
+  },
+  {
+    "title": "Horestis",
+    "slot": "armor"
+  },
+  {
+    "title": "Horn_(Ring)",
+    "slot": "ring"
+  },
+  {
+    "title": "Horned_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Horseman_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "House_Silversun%27s_Signet_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Household_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hulking_Carnisylvan",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hulking_Prehemoth",
+    "slot": "armor"
+  },
+  {
+    "title": "Humongous_Fungus",
+    "slot": "armor"
+  },
+  {
+    "title": "Hunter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Hydra",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ice_Damage",
+    "slot": null
+  },
+  {
+    "title": "Ice_Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ice_Golem",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ice_Overlord",
+    "slot": "armor"
+  },
+  {
+    "title": "Ice_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Ice_Witch",
+    "slot": "helmet"
+  },
+  {
+    "title": "Icecold_Book",
+    "slot": "helmet"
+  },
+  {
+    "title": "Icy_Culottes",
+    "slot": "legs"
+  },
+  {
+    "title": "Icy_Rainbow_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Iks_Ahpututu",
+    "slot": "legs"
+  },
+  {
+    "title": "Iks_Aucar",
+    "slot": "armor"
+  },
+  {
+    "title": "Iks_Chuka",
+    "slot": "boots"
+  },
+  {
+    "title": "Iks_Footwraps",
+    "slot": "boots"
+  },
+  {
+    "title": "Iks_Pututu",
+    "slot": "helmet"
+  },
+  {
+    "title": "Incandescent_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Infernal_Demon",
+    "slot": "boots"
+  },
+  {
+    "title": "Infernalist",
+    "slot": "boots"
+  },
+  {
+    "title": "Ink_Blob",
+    "slot": "helmet"
+  },
+  {
+    "title": "Insane_Siren",
+    "slot": "helmet"
+  },
+  {
+    "title": "Insectoid_Scout",
+    "slot": "ring"
+  },
+  {
+    "title": "Irgix_the_Flimsy",
+    "slot": "boots"
+  },
+  {
+    "title": "Iron_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Iron_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ironblight",
+    "slot": "helmet"
+  },
+  {
+    "title": "Island_Troll",
+    "slot": "helmet"
+  },
+  {
+    "title": "Item",
+    "slot": null
+  },
+  {
+    "title": "Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Izcandar_Champion_of_Summer",
+    "slot": "ring"
+  },
+  {
+    "title": "Izcandar_Champion_of_Winter",
+    "slot": "ring"
+  },
+  {
+    "title": "Izcandar_the_Banished",
+    "slot": "ring"
+  },
+  {
+    "title": "Jacket",
+    "slot": "armor"
+  },
+  {
+    "title": "Jade_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Jade_Amulet_(Replica)",
+    "slot": "amulet"
+  },
+  {
+    "title": "Jade_Conical_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Jade_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Jade_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Jaul",
+    "slot": "helmet"
+  },
+  {
+    "title": "Jerom%27s_Family_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Jester_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Journal_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Juggernaut",
+    "slot": "armor"
+  },
+  {
+    "title": "Jungle_Moa",
+    "slot": "armor"
+  },
+  {
+    "title": "Jungle_Survivor_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Juvenile_Bashmu",
+    "slot": "armor"
+  },
+  {
+    "title": "Juvenile_Cyclops",
+    "slot": "helmet"
+  },
+  {
+    "title": "Kalyassa",
+    "slot": "helmet"
+  },
+  {
+    "title": "Katex_Blood_Tongue",
+    "slot": "helmet"
+  },
+  {
+    "title": "Kerberos",
+    "slot": "armor"
+  },
+  {
+    "title": "Keys",
+    "slot": "helmet"
+  },
+  {
+    "title": "Killer_Caiman",
+    "slot": "boots"
+  },
+  {
+    "title": "King_Zelos",
+    "slot": "helmet"
+  },
+  {
+    "title": "Kitchen_Tools",
+    "slot": "helmet"
+  },
+  {
+    "title": "Knight",
+    "slot": null
+  },
+  {
+    "title": "Knight%27s_Apparition",
+    "slot": "shield"
+  },
+  {
+    "title": "Knight_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Knight_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Knights",
+    "slot": "helmet"
+  },
+  {
+    "title": "Knowledge_Elemental",
+    "slot": "armor"
+  },
+  {
+    "title": "Kollos",
+    "slot": "armor"
+  },
+  {
+    "title": "Kongra",
+    "slot": "armor"
+  },
+  {
+    "title": "Koshei%27s_Ancient_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Krimhorn_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Kusuma",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lady_Tenebris",
+    "slot": "armor"
+  },
+  {
+    "title": "Lamassu",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lancer_Beetle",
+    "slot": "amulet"
+  },
+  {
+    "title": "Latrivan",
+    "slot": "helmet"
+  },
+  {
+    "title": "Laurel_Wreath",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lava_Golem",
+    "slot": "armor"
+  },
+  {
+    "title": "Lavafungus",
+    "slot": "armor"
+  },
+  {
+    "title": "Lavaworm",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lavos_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Leaf_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Leaf_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Leaf_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Leather_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Leather_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Leather_Harness",
+    "slot": "armor"
+  },
+  {
+    "title": "Leather_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Leather_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Lederhosen",
+    "slot": "legs"
+  },
+  {
+    "title": "Legion_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Legs",
+    "slot": "helmet"
+  },
+  {
+    "title": "Legs_of_Enlightenment",
+    "slot": "legs"
+  },
+  {
+    "title": "Legs_of_Wisdom",
+    "slot": "legs"
+  },
+  {
+    "title": "Leopard_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Lersatio",
+    "slot": "shield"
+  },
+  {
+    "title": "Lethal_Lissy",
+    "slot": "armor"
+  },
+  {
+    "title": "Leviathan",
+    "slot": "armor"
+  },
+  {
+    "title": "Leviathan%27s_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Lich",
+    "slot": "helmet"
+  },
+  {
+    "title": "Life_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Light_Bandana",
+    "slot": "helmet"
+  },
+  {
+    "title": "Light_Sources",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lightning_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Lightning_Headband",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lightning_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Lightning_Pendant",
+    "slot": "amulet"
+  },
+  {
+    "title": "Lightning_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Lightning_Set",
+    "slot": null
+  },
+  {
+    "title": "Liodile",
+    "slot": "legs"
+  },
+  {
+    "title": "Lion_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Lion_Longbow",
+    "slot": null
+  },
+  {
+    "title": "Lion_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Lion_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Lion_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Lion_Spangenhelm",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lion_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Liquids",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lisa",
+    "slot": "armor"
+  },
+  {
+    "title": "Lit_Torch_(Sparkling)",
+    "slot": null
+  },
+  {
+    "title": "Living_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Lizard_Chosen",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lizard_Dragon_Priest",
+    "slot": "armor"
+  },
+  {
+    "title": "Lizard_Gate_Guardian",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lizard_High_Guard",
+    "slot": "armor"
+  },
+  {
+    "title": "Lizard_Legionnaire",
+    "slot": "armor"
+  },
+  {
+    "title": "Lizard_Sentinel",
+    "slot": "armor"
+  },
+  {
+    "title": "Lizard_Snakecharmer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lizard_Templar",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lizard_Zaogun",
+    "slot": "armor"
+  },
+  {
+    "title": "Lloyd",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lokathmor",
+    "slot": "armor"
+  },
+  {
+    "title": "Lord_Azaram",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lord_of_the_Elements",
+    "slot": "helmet"
+  },
+  {
+    "title": "Loricate_Orger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lost_Basher",
+    "slot": "armor"
+  },
+  {
+    "title": "Lost_Berserker",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lost_Exile",
+    "slot": "armor"
+  },
+  {
+    "title": "Lost_Husher",
+    "slot": "armor"
+  },
+  {
+    "title": "Lost_Soul",
+    "slot": "helmet"
+  },
+  {
+    "title": "Lost_Thrower",
+    "slot": "helmet"
+  },
+  {
+    "title": "Love_Elixir_(Replica)",
+    "slot": "armor"
+  },
+  {
+    "title": "Lucifuga_Aranea",
+    "slot": "armor"
+  },
+  {
+    "title": "Lucky_Clover_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Lumbering_Carnivor",
+    "slot": "armor"
+  },
+  {
+    "title": "Mad_Mage",
+    "slot": "helmet"
+  },
+  {
+    "title": "Madareth",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mage",
+    "slot": "offhand"
+  },
+  {
+    "title": "Mage%27s_Cap",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mage_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Magic_Level",
+    "slot": "offhand"
+  },
+  {
+    "title": "Magic_Plate_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Magical_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Magician%27s_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Magician_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Magma_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Magma_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Magma_Bubble",
+    "slot": "helmet"
+  },
+  {
+    "title": "Magma_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Magma_Crawler",
+    "slot": "boots"
+  },
+  {
+    "title": "Magma_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Magma_Monocle",
+    "slot": "helmet"
+  },
+  {
+    "title": "Magma_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Magma_Set",
+    "slot": null
+  },
+  {
+    "title": "Mahatheb",
+    "slot": "ring"
+  },
+  {
+    "title": "Mahrdis",
+    "slot": "shield"
+  },
+  {
+    "title": "Make-Do_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Makeshift_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Maliceforged_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Malofur_Mangrinder",
+    "slot": "offhand"
+  },
+  {
+    "title": "Mamma_Longlegs",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mammoth",
+    "slot": "shield"
+  },
+  {
+    "title": "Mammoth_Fur_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Mammoth_Fur_Shorts",
+    "slot": "legs"
+  },
+  {
+    "title": "Man_in_the_Cave",
+    "slot": "helmet"
+  },
+  {
+    "title": "Manticore",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mantosaurus",
+    "slot": "ring"
+  },
+  {
+    "title": "Many_Faces",
+    "slot": "armor"
+  },
+  {
+    "title": "Marid",
+    "slot": "helmet"
+  },
+  {
+    "title": "Marziel",
+    "slot": "shield"
+  },
+  {
+    "title": "Massacre",
+    "slot": "armor"
+  },
+  {
+    "title": "Massive_Earth_Elemental",
+    "slot": "ring"
+  },
+  {
+    "title": "Massive_Energy_Elemental",
+    "slot": "legs"
+  },
+  {
+    "title": "Massive_Fire_Elemental",
+    "slot": "legs"
+  },
+  {
+    "title": "Massive_Water_Elemental",
+    "slot": "ring"
+  },
+  {
+    "title": "Master_Archer%27s_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Mastermind_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Mathmaster_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Mathmaster_Shield_(Replica)",
+    "slot": "shield"
+  },
+  {
+    "title": "Maxxenius",
+    "slot": "offhand"
+  },
+  {
+    "title": "Mazoran",
+    "slot": "armor"
+  },
+  {
+    "title": "Mazzinor",
+    "slot": "armor"
+  },
+  {
+    "title": "Meat_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Medusa",
+    "slot": "armor"
+  },
+  {
+    "title": "Medusa_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Megasylvan_Yselda",
+    "slot": "helmet"
+  },
+  {
+    "title": "Melee",
+    "slot": null
+  },
+  {
+    "title": "Melting_Frozen_Horror",
+    "slot": "helmet"
+  },
+  {
+    "title": "Memory_of_a_Banshee",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_a_Dwarf",
+    "slot": "helmet"
+  },
+  {
+    "title": "Memory_of_a_Golem",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_a_Hero",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_a_Hydra",
+    "slot": "amulet"
+  },
+  {
+    "title": "Memory_of_a_Lizard",
+    "slot": "legs"
+  },
+  {
+    "title": "Memory_of_a_Mammoth",
+    "slot": "shield"
+  },
+  {
+    "title": "Memory_of_a_Pirate",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_a_Scarab",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_a_Shaper",
+    "slot": "amulet"
+  },
+  {
+    "title": "Memory_of_a_Vampire",
+    "slot": "helmet"
+  },
+  {
+    "title": "Memory_of_an_Elf",
+    "slot": "armor"
+  },
+  {
+    "title": "Memory_of_an_Ogre",
+    "slot": "ring"
+  },
+  {
+    "title": "Menacing_Carnivor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mephiles",
+    "slot": "armor"
+  },
+  {
+    "title": "Mercurial_Menace",
+    "slot": "boots"
+  },
+  {
+    "title": "Merikh_the_Slaughterer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Merudri_Battle_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Merudri_Brooch",
+    "slot": "amulet"
+  },
+  {
+    "title": "Merudri_Nanbando",
+    "slot": "armor"
+  },
+  {
+    "title": "Merudri_Scale_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Metal_Gargoyle",
+    "slot": "legs"
+  },
+  {
+    "title": "Metal_Spats",
+    "slot": "boots"
+  },
+  {
+    "title": "Metals",
+    "slot": "helmet"
+  },
+  {
+    "title": "Midnight_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "Midnight_Panther",
+    "slot": "ring"
+  },
+  {
+    "title": "Midnight_Sarong",
+    "slot": "legs"
+  },
+  {
+    "title": "Midnight_Tunic",
+    "slot": "armor"
+  },
+  {
+    "title": "Might_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Mighty_Helm_of_Green_Sparks",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mindmasher",
+    "slot": "shield"
+  },
+  {
+    "title": "Mining_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mino_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Minotaur",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Amazon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Archer",
+    "slot": "armor"
+  },
+  {
+    "title": "Minotaur_Bruiser",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Cult_Follower",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Cult_Prophet",
+    "slot": "ring"
+  },
+  {
+    "title": "Minotaur_Guard",
+    "slot": "armor"
+  },
+  {
+    "title": "Minotaur_Hunter",
+    "slot": "armor"
+  },
+  {
+    "title": "Minotaur_Invader",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Mage",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Occultist",
+    "slot": "helmet"
+  },
+  {
+    "title": "Minotaur_Poacher",
+    "slot": "armor"
+  },
+  {
+    "title": "Misguided_Bully",
+    "slot": "amulet"
+  },
+  {
+    "title": "Misguided_Thief",
+    "slot": "ring"
+  },
+  {
+    "title": "Mitmah_Vanguard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Model_Ship",
+    "slot": "helmet"
+  },
+  {
+    "title": "Molten_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Monk%27s_Apparition",
+    "slot": "ring"
+  },
+  {
+    "title": "Monk_(Creature)",
+    "slot": "boots"
+  },
+  {
+    "title": "Monk_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Monk_of_the_Order",
+    "slot": "boots"
+  },
+  {
+    "title": "Monks",
+    "slot": "helmet"
+  },
+  {
+    "title": "Monstor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mooh%27Tah_Warrior",
+    "slot": "armor"
+  },
+  {
+    "title": "Mooh%27tah_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Moohtant",
+    "slot": "ring"
+  },
+  {
+    "title": "Moohtant_Wallbreaker",
+    "slot": "ring"
+  },
+  {
+    "title": "Moon_Mirror",
+    "slot": null
+  },
+  {
+    "title": "Morgaroth",
+    "slot": "helmet"
+  },
+  {
+    "title": "Morguthis",
+    "slot": "boots"
+  },
+  {
+    "title": "Morshabaal",
+    "slot": "helmet"
+  },
+  {
+    "title": "Morshabaal%27s_Mask",
+    "slot": "shield"
+  },
+  {
+    "title": "Mould_Phantom",
+    "slot": "ring"
+  },
+  {
+    "title": "Mountain_Troll",
+    "slot": "armor"
+  },
+  {
+    "title": "Mozradek",
+    "slot": "boots"
+  },
+  {
+    "title": "Muglex_Clan_Assassin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Muglex_Clan_Footman",
+    "slot": "helmet"
+  },
+  {
+    "title": "Muglex_Clan_Scavenger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mummy",
+    "slot": "shield"
+  },
+  {
+    "title": "Museum_Stone_Golem",
+    "slot": "ring"
+  },
+  {
+    "title": "Musical_Instruments",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mutant_Bone_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Mutant_Bone_Kilt",
+    "slot": "legs"
+  },
+  {
+    "title": "Mutant_Hide_Trousers",
+    "slot": "legs"
+  },
+  {
+    "title": "Mutated_Bat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mutated_Human",
+    "slot": "armor"
+  },
+  {
+    "title": "Mutated_Rat",
+    "slot": "shield"
+  },
+  {
+    "title": "Mutated_Skin_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Mutated_Skin_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Mutated_Tiger",
+    "slot": "shield"
+  },
+  {
+    "title": "Mystic_Turban",
+    "slot": "helmet"
+  },
+  {
+    "title": "Mystical_Dragon_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Naga_Archer",
+    "slot": "ring"
+  },
+  {
+    "title": "Naga_Crossbow",
+    "slot": null
+  },
+  {
+    "title": "Naga_Rod",
+    "slot": null
+  },
+  {
+    "title": "Naga_Tanko",
+    "slot": "armor"
+  },
+  {
+    "title": "Naga_Warrior",
+    "slot": "armor"
+  },
+  {
+    "title": "Native_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Necklace_of_the_Deep",
+    "slot": "amulet"
+  },
+  {
+    "title": "Necklaces",
+    "slot": "ring"
+  },
+  {
+    "title": "Necromancer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Necromancer_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Necropharus",
+    "slot": "helmet"
+  },
+  {
+    "title": "Neferi_the_Spy",
+    "slot": "helmet"
+  },
+  {
+    "title": "Neutral_Deepling_Warrior",
+    "slot": "ring"
+  },
+  {
+    "title": "Nightfiend",
+    "slot": "shield"
+  },
+  {
+    "title": "Nighthunter",
+    "slot": "offhand"
+  },
+  {
+    "title": "Nightmare",
+    "slot": "legs"
+  },
+  {
+    "title": "Nightmare_Scion",
+    "slot": "helmet"
+  },
+  {
+    "title": "Nightmare_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Nightstalker",
+    "slot": "armor"
+  },
+  {
+    "title": "Noble_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Nomad_(Basic)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Nomad_(Blue)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Nomad_(Female)",
+    "slot": "helmet"
+  },
+  {
+    "title": "Norcferatu_Bloodhide",
+    "slot": "armor"
+  },
+  {
+    "title": "Norcferatu_Bloodstrider",
+    "slot": "legs"
+  },
+  {
+    "title": "Norcferatu_Bonecloak",
+    "slot": "armor"
+  },
+  {
+    "title": "Norcferatu_Bonehood",
+    "slot": "helmet"
+  },
+  {
+    "title": "Norcferatu_Fangstompers",
+    "slot": "boots"
+  },
+  {
+    "title": "Norcferatu_Fleshguards",
+    "slot": "legs"
+  },
+  {
+    "title": "Norcferatu_Goretrampers",
+    "slot": "boots"
+  },
+  {
+    "title": "Norcferatu_Heartless",
+    "slot": "amulet"
+  },
+  {
+    "title": "Norcferatu_Nightweaver",
+    "slot": "amulet"
+  },
+  {
+    "title": "Norcferatu_Skullguard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Norcferatu_Thornwraps",
+    "slot": "legs"
+  },
+  {
+    "title": "Norcferatu_Tuskplate",
+    "slot": "armor"
+  },
+  {
+    "title": "Norse_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Note_About_Two_Souls",
+    "slot": "amulet"
+  },
+  {
+    "title": "Novice_of_the_Cult",
+    "slot": "ring"
+  },
+  {
+    "title": "Noxious_Ripptor",
+    "slot": "legs"
+  },
+  {
+    "title": "Nymph",
+    "slot": "helmet"
+  },
+  {
+    "title": "Obujos",
+    "slot": "legs"
+  },
+  {
+    "title": "Oceanborn_Leviathan_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Ocyakao",
+    "slot": "shield"
+  },
+  {
+    "title": "Odd_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ogre_Brute",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ogre_Ruffian",
+    "slot": "boots"
+  },
+  {
+    "title": "Ogre_Sage",
+    "slot": "boots"
+  },
+  {
+    "title": "Ogre_Savage",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ogre_Shaman",
+    "slot": "helmet"
+  },
+  {
+    "title": "Old_Cape",
+    "slot": "armor"
+  },
+  {
+    "title": "Omnivora",
+    "slot": "boots"
+  },
+  {
+    "title": "Omrafir",
+    "slot": "helmet"
+  },
+  {
+    "title": "Omruc",
+    "slot": "boots"
+  },
+  {
+    "title": "One-Handed",
+    "slot": null
+  },
+  {
+    "title": "Onyx_Pendant",
+    "slot": "amulet"
+  },
+  {
+    "title": "Oodok_Witchmaster",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc_Berserker",
+    "slot": "armor"
+  },
+  {
+    "title": "Orc_Cult_Fanatic",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc_Leader",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc_Rider",
+    "slot": "armor"
+  },
+  {
+    "title": "Orc_Shaman",
+    "slot": "armor"
+  },
+  {
+    "title": "Orc_Spearman",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc_Warlord",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orc_Warrior",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orclops_Doomhauler",
+    "slot": "amulet"
+  },
+  {
+    "title": "Orewalker",
+    "slot": "helmet"
+  },
+  {
+    "title": "Orger",
+    "slot": "shield"
+  },
+  {
+    "title": "Oriental_Shoes",
+    "slot": "boots"
+  },
+  {
+    "title": "Ornamented_Brooch",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ornamented_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Ornate_Chestplate",
+    "slot": "armor"
+  },
+  {
+    "title": "Ornate_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Ornate_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Ornate_Testtplate",
+    "slot": "armor"
+  },
+  {
+    "title": "Orshabaal",
+    "slot": "helmet"
+  },
+  {
+    "title": "Other_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Outburst",
+    "slot": "helmet"
+  },
+  {
+    "title": "Overcharged_Energy_Element",
+    "slot": "ring"
+  },
+  {
+    "title": "Owin_(Creature)",
+    "slot": "armor"
+  },
+  {
+    "title": "Painted_Gourd_Rattle",
+    "slot": "shield"
+  },
+  {
+    "title": "Painting_Equipment",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pair_of_Dreamwalkers",
+    "slot": "boots"
+  },
+  {
+    "title": "Pair_of_Earmuffs",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pair_of_Nightmare_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Pair_of_Old_Bracers",
+    "slot": "armor"
+  },
+  {
+    "title": "Pair_of_Soft_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Pair_of_Soulstalkers",
+    "slot": "boots"
+  },
+  {
+    "title": "Pair_of_Soulwalkers",
+    "slot": "boots"
+  },
+  {
+    "title": "Paiz_the_Pauperizer",
+    "slot": "armor"
+  },
+  {
+    "title": "Paladin",
+    "slot": null
+  },
+  {
+    "title": "Paladin%27s_Apparition",
+    "slot": "helmet"
+  },
+  {
+    "title": "Paladin_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Paladins",
+    "slot": "helmet"
+  },
+  {
+    "title": "Party_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Party_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Patched_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Paw_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Pendulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Phantasm",
+    "slot": "armor"
+  },
+  {
+    "title": "Phoenix_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Pi%C3%B1ata_Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pirat_Bombardier",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pirat_Cutthroat",
+    "slot": "armor"
+  },
+  {
+    "title": "Pirate_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Pirate_Buccaneer",
+    "slot": "armor"
+  },
+  {
+    "title": "Pirate_Corsair",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pirate_Cutthroat",
+    "slot": "armor"
+  },
+  {
+    "title": "Pirate_Ghost",
+    "slot": "armor"
+  },
+  {
+    "title": "Pirate_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pirate_Knee_Breeches",
+    "slot": "legs"
+  },
+  {
+    "title": "Pirate_Marauder",
+    "slot": "helmet"
+  },
+  {
+    "title": "Pirate_Shirt",
+    "slot": "armor"
+  },
+  {
+    "title": "Pixie",
+    "slot": "offhand"
+  },
+  {
+    "title": "Plagirath",
+    "slot": "armor"
+  },
+  {
+    "title": "Plagueroot",
+    "slot": "armor"
+  },
+  {
+    "title": "Plaguesmith",
+    "slot": "legs"
+  },
+  {
+    "title": "Plain_Monk_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Plants,_Animal_Products,_Food_and_Drink",
+    "slot": "helmet"
+  },
+  {
+    "title": "Plants_and_Herbs",
+    "slot": "helmet"
+  },
+  {
+    "title": "Plate_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Plate_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Plate_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Platinum_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Player",
+    "slot": "shield"
+  },
+  {
+    "title": "Plunder_Patriarch",
+    "slot": "helmet"
+  },
+  {
+    "title": "Poacher",
+    "slot": "helmet"
+  },
+  {
+    "title": "Poisoned",
+    "slot": null
+  },
+  {
+    "title": "Poisonous_Carnisylvan",
+    "slot": "amulet"
+  },
+  {
+    "title": "Pooka",
+    "slot": "ring"
+  },
+  {
+    "title": "Porcelain_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Post_Officer%27s_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Power_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Preceptor_Lazare",
+    "slot": "armor"
+  },
+  {
+    "title": "Priestess",
+    "slot": "shield"
+  },
+  {
+    "title": "Prince_Drazzak",
+    "slot": "helmet"
+  },
+  {
+    "title": "Prismatic_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Prismatic_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Prismatic_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Prismatic_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Prismatic_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Prismatic_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Prismatic_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Professor_Maxxen",
+    "slot": "boots"
+  },
+  {
+    "title": "Protection_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Quara_Constrictor",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Constrictor_Scout",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Hydromancer",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Hydromancer_Scout",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Mantassin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Quara_Mantassin_Scout",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Pincher",
+    "slot": "helmet"
+  },
+  {
+    "title": "Quara_Pincher_Scout",
+    "slot": "armor"
+  },
+  {
+    "title": "Quara_Predator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Quara_Predator_Scout",
+    "slot": "armor"
+  },
+  {
+    "title": "Quest_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Quivers",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rage_Squid",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ragiaz",
+    "slot": "shield"
+  },
+  {
+    "title": "Raging_Mage",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ragnir_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rahemos",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rainbow_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Rainbow_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Rainbow_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Ranger%27s_Cloak",
+    "slot": "armor"
+  },
+  {
+    "title": "Ranger_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Ratmiral_Blackwhiskers",
+    "slot": "legs"
+  },
+  {
+    "title": "Rattling_Gourd",
+    "slot": "shield"
+  },
+  {
+    "title": "Ravenous_Hunger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Raxias",
+    "slot": "helmet"
+  },
+  {
+    "title": "Razzagorn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Reality_Reaver",
+    "slot": "helmet"
+  },
+  {
+    "title": "Realityquake",
+    "slot": "helmet"
+  },
+  {
+    "title": "Red_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Red_Tunic",
+    "slot": "armor"
+  },
+  {
+    "title": "Refined_Stag_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Reflecting_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Reflection_of_a_Mage",
+    "slot": "ring"
+  },
+  {
+    "title": "Renegade_Knight",
+    "slot": "helmet"
+  },
+  {
+    "title": "Renegade_Orc",
+    "slot": "helmet"
+  },
+  {
+    "title": "Renegade_Quara_Constrictor",
+    "slot": "ring"
+  },
+  {
+    "title": "Renegade_Quara_Hydromancer",
+    "slot": "armor"
+  },
+  {
+    "title": "Renegade_Quara_Mantassin",
+    "slot": "helmet"
+  },
+  {
+    "title": "Renegade_Quara_Pincher",
+    "slot": "helmet"
+  },
+  {
+    "title": "Renegade_Quara_Predator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Retching_Horror",
+    "slot": "boots"
+  },
+  {
+    "title": "Retros_Treasure",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rhindeer",
+    "slot": "armor"
+  },
+  {
+    "title": "Rhodolith_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ribstride",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rift_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Ring_of_Blue_Plasma",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Ending",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Green_Plasma",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Healing",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Orange_Plasma",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Red_Plasma",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Secret_Thoughts",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Secret_Thoughts_(Charged)",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Souls",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Souls_(Depleted)",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Temptation",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_Wishes",
+    "slot": "ring"
+  },
+  {
+    "title": "Ring_of_the_Sky",
+    "slot": "ring"
+  },
+  {
+    "title": "Rings",
+    "slot": "helmet"
+  },
+  {
+    "title": "Roaring_Lion",
+    "slot": "helmet"
+  },
+  {
+    "title": "Robe_of_Enlightenment",
+    "slot": "armor"
+  },
+  {
+    "title": "Robe_of_the_Ice_Queen",
+    "slot": "armor"
+  },
+  {
+    "title": "Robe_of_the_Underworld",
+    "slot": "armor"
+  },
+  {
+    "title": "Rods",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ron_the_Ripper",
+    "slot": "armor"
+  },
+  {
+    "title": "Rookgaard",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rorc",
+    "slot": "shield"
+  },
+  {
+    "title": "Rose_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Rot_Elemental",
+    "slot": "ring"
+  },
+  {
+    "title": "Rotspit",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rotten_Demonbone",
+    "slot": null
+  },
+  {
+    "title": "Rotten_Golem",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rottie_the_Rotworm",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rotworm_Queen",
+    "slot": "helmet"
+  },
+  {
+    "title": "Royal_Draken_Mail",
+    "slot": "armor"
+  },
+  {
+    "title": "Royal_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Royal_Scale_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Rubber_Cap",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rubbish",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rubbish_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Ruby_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Rukor_Zad",
+    "slot": "helmet"
+  },
+  {
+    "title": "Runes",
+    "slot": "helmet"
+  },
+  {
+    "title": "Runic_Ice_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Rupture",
+    "slot": "helmet"
+  },
+  {
+    "title": "Rustheap_Golem",
+    "slot": "amulet"
+  },
+  {
+    "title": "Rusty_Winged_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sabretooth_(Creature)",
+    "slot": "armor"
+  },
+  {
+    "title": "Sacred_Spider",
+    "slot": "armor"
+  },
+  {
+    "title": "Sacred_Tree_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Salamander",
+    "slot": "helmet"
+  },
+  {
+    "title": "Salamander_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Sandals",
+    "slot": "boots"
+  },
+  {
+    "title": "Sandstone_Scorpion",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sanguine_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Sanguine_Galoshes",
+    "slot": "boots"
+  },
+  {
+    "title": "Sanguine_Greaves",
+    "slot": "legs"
+  },
+  {
+    "title": "Sanguine_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Sanguine_Trousers",
+    "slot": "legs"
+  },
+  {
+    "title": "Santa_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sapphire_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Sapphire_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Scale_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Scar_Tribe_Shaman",
+    "slot": "armor"
+  },
+  {
+    "title": "Scar_Tribe_Warrior",
+    "slot": "armor"
+  },
+  {
+    "title": "Scarab_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Scarab_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Scarf",
+    "slot": "amulet"
+  },
+  {
+    "title": "Scarlett_Etzel",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sea_Serpent",
+    "slot": "armor"
+  },
+  {
+    "title": "Seacrest_Serpent",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sedge_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sensing_Crown",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sentinel_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Serpent_Spawn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sets",
+    "slot": null
+  },
+  {
+    "title": "Shaburak_Demon",
+    "slot": "legs"
+  },
+  {
+    "title": "Shaburak_Lord",
+    "slot": "armor"
+  },
+  {
+    "title": "Shaburak_Prince",
+    "slot": "armor"
+  },
+  {
+    "title": "Shadow_Pupil",
+    "slot": "helmet"
+  },
+  {
+    "title": "Shadowpelt",
+    "slot": "armor"
+  },
+  {
+    "title": "Shamanic_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Shaper_Matriarch",
+    "slot": "ring"
+  },
+  {
+    "title": "Shapeshifter_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Shardhead",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sharpclaw",
+    "slot": "boots"
+  },
+  {
+    "title": "Shield_of_Care",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_Corruption",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_Destiny",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_Destiny_(Activated)",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_Endless_Search",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_Honour",
+    "slot": "shield"
+  },
+  {
+    "title": "Shield_of_the_White_Knight",
+    "slot": "shield"
+  },
+  {
+    "title": "Shielding",
+    "slot": "shield"
+  },
+  {
+    "title": "Shields",
+    "slot": "helmet"
+  },
+  {
+    "title": "Shock_Head",
+    "slot": "helmet"
+  },
+  {
+    "title": "Shockwave_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Shoulder_Plate",
+    "slot": "offhand"
+  },
+  {
+    "title": "Shrieking_Cry-Stal",
+    "slot": "boots"
+  },
+  {
+    "title": "Shroud_of_Despair",
+    "slot": "helmet"
+  },
+  {
+    "title": "Shrunken_Head_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Shulgrax",
+    "slot": "boots"
+  },
+  {
+    "title": "Sight_of_Surrender",
+    "slot": "helmet"
+  },
+  {
+    "title": "Silencer",
+    "slot": "legs"
+  },
+  {
+    "title": "Silver_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Silver_Chimes",
+    "slot": "shield"
+  },
+  {
+    "title": "Silver_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Silver_Medal",
+    "slot": "amulet"
+  },
+  {
+    "title": "Silver_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Simple_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Sineater_Inferniarch",
+    "slot": "offhand"
+  },
+  {
+    "title": "Sir_Baeloc",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sir_Nictros",
+    "slot": "armor"
+  },
+  {
+    "title": "Sir_Valorcrest",
+    "slot": "shield"
+  },
+  {
+    "title": "Sister_Hetai",
+    "slot": "helmet"
+  },
+  {
+    "title": "Skeleton",
+    "slot": "helmet"
+  },
+  {
+    "title": "Skeleton_Elite_Warrior",
+    "slot": "helmet"
+  },
+  {
+    "title": "Skill",
+    "slot": "shield"
+  },
+  {
+    "title": "Skull_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Skullcracker_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Sleep_Shawl",
+    "slot": "amulet"
+  },
+  {
+    "title": "Smuggler",
+    "slot": "helmet"
+  },
+  {
+    "title": "Snake_God%27s_Wristguard",
+    "slot": "offhand"
+  },
+  {
+    "title": "Soldier_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sorcerer",
+    "slot": null
+  },
+  {
+    "title": "Sorcerer%27s_Apparition",
+    "slot": "legs"
+  },
+  {
+    "title": "Sorcerers",
+    "slot": "helmet"
+  },
+  {
+    "title": "Soul-Broken_Harbinger",
+    "slot": "helmet"
+  },
+  {
+    "title": "Soul_of_Dragonking_Zyrtarch",
+    "slot": "helmet"
+  },
+  {
+    "title": "Soulbastion",
+    "slot": "shield"
+  },
+  {
+    "title": "Soulbleeder",
+    "slot": null
+  },
+  {
+    "title": "Souleater",
+    "slot": "ring"
+  },
+  {
+    "title": "Soulful_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Soulgarb",
+    "slot": "armor"
+  },
+  {
+    "title": "Soulhexer",
+    "slot": null
+  },
+  {
+    "title": "Soulmantle",
+    "slot": "armor"
+  },
+  {
+    "title": "Soulpiercer",
+    "slot": null
+  },
+  {
+    "title": "Soulshanks",
+    "slot": "legs"
+  },
+  {
+    "title": "Soulshell",
+    "slot": "armor"
+  },
+  {
+    "title": "Soulshroud",
+    "slot": "armor"
+  },
+  {
+    "title": "Soulsoles",
+    "slot": "boots"
+  },
+  {
+    "title": "Soulstrider",
+    "slot": "legs"
+  },
+  {
+    "title": "Soultainter",
+    "slot": null
+  },
+  {
+    "title": "Sparking_Rainbow_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Sparkion",
+    "slot": "ring"
+  },
+  {
+    "title": "Spectral_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Spectre",
+    "slot": "ring"
+  },
+  {
+    "title": "Spell",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook",
+    "slot": "shield"
+  },
+  {
+    "title": "Spellbook_of_Ancient_Arcana",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Dark_Mysteries",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Enlightenment",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Lost_Souls",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Mind_Control",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Vigilance",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_Warding",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbook_of_the_Novice",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellbooks",
+    "slot": "helmet"
+  },
+  {
+    "title": "Spellscroll_of_Prophecies",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spellweaver%27s_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Sphinx",
+    "slot": "helmet"
+  },
+  {
+    "title": "Spidris",
+    "slot": "armor"
+  },
+  {
+    "title": "Spidris_Elite",
+    "slot": "armor"
+  },
+  {
+    "title": "Spike_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Spiky_Carnivor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Spirit_Bind",
+    "slot": "armor"
+  },
+  {
+    "title": "Spirit_Cloak",
+    "slot": "armor"
+  },
+  {
+    "title": "Spirit_Guide",
+    "slot": "offhand"
+  },
+  {
+    "title": "Spiritthorn_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Spiritthorn_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Spiritthorn_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Spitter",
+    "slot": "helmet"
+  },
+  {
+    "title": "Spooky_Hood",
+    "slot": "helmet"
+  },
+  {
+    "title": "Squid_Warden",
+    "slot": "helmet"
+  },
+  {
+    "title": "Srezz_Yellow_Eyes",
+    "slot": "helmet"
+  },
+  {
+    "title": "Stabilizing_Reality_Reaver",
+    "slot": "helmet"
+  },
+  {
+    "title": "Stag_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Stag_Footwraps",
+    "slot": "boots"
+  },
+  {
+    "title": "Stag_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Stag_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Stag_Plate",
+    "slot": "armor"
+  },
+  {
+    "title": "Stag_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Stag_Scrolls",
+    "slot": "offhand"
+  },
+  {
+    "title": "Stag_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Stag_Shinguards",
+    "slot": "boots"
+  },
+  {
+    "title": "Stag_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Stalker",
+    "slot": "legs"
+  },
+  {
+    "title": "Stalking_Stalk",
+    "slot": "armor"
+  },
+  {
+    "title": "Stampor",
+    "slot": "armor"
+  },
+  {
+    "title": "Star_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Star_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Status_Condition",
+    "slot": null
+  },
+  {
+    "title": "Stealth_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Steel_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Steel_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Steel_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Stitched_Mutant_Hide_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Stoic_Iks_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Stoic_Iks_Casque",
+    "slot": "helmet"
+  },
+  {
+    "title": "Stoic_Iks_Chestplate",
+    "slot": "armor"
+  },
+  {
+    "title": "Stoic_Iks_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Stoic_Iks_Culet",
+    "slot": "legs"
+  },
+  {
+    "title": "Stoic_Iks_Faulds",
+    "slot": "legs"
+  },
+  {
+    "title": "Stoic_Iks_Headpiece",
+    "slot": "helmet"
+  },
+  {
+    "title": "Stoic_Iks_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Stoic_Iks_Sandals",
+    "slot": "boots"
+  },
+  {
+    "title": "Stone_Devourer",
+    "slot": "ring"
+  },
+  {
+    "title": "Stone_Golem",
+    "slot": "ring"
+  },
+  {
+    "title": "Stone_Rhino",
+    "slot": "shield"
+  },
+  {
+    "title": "Stone_Skin_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Stonecracker",
+    "slot": "armor"
+  },
+  {
+    "title": "Strange_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Strange_Good_Night_Songs",
+    "slot": "shield"
+  },
+  {
+    "title": "Strange_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Strange_Talisman",
+    "slot": "amulet"
+  },
+  {
+    "title": "Studded_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Studded_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Studded_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Studded_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Sugar_Daddy",
+    "slot": "shield"
+  },
+  {
+    "title": "Sulphider",
+    "slot": "boots"
+  },
+  {
+    "title": "Sulphur_Scuttler",
+    "slot": "ring"
+  },
+  {
+    "title": "Sulphur_Spouter",
+    "slot": "legs"
+  },
+  {
+    "title": "Sulphurous_Demonbone",
+    "slot": null
+  },
+  {
+    "title": "Summer_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "Sun-Marked_Goanna",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sun_Catcher",
+    "slot": null
+  },
+  {
+    "title": "Suspicious_Device",
+    "slot": "amulet"
+  },
+  {
+    "title": "Suspicious_Signet_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Swamp_Troll",
+    "slot": "boots"
+  },
+  {
+    "title": "Swamplair_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Swan_Feather_Cloak",
+    "slot": "armor"
+  },
+  {
+    "title": "Swan_Maiden",
+    "slot": "helmet"
+  },
+  {
+    "title": "Sweetheart_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Sword_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Sword_Weapons",
+    "slot": "helmet"
+  },
+  {
+    "title": "Symbol_of_Sun_and_Sea",
+    "slot": "ring"
+  },
+  {
+    "title": "Taming_Items",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tanjis",
+    "slot": "legs"
+  },
+  {
+    "title": "Tarantula",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tarbaz",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tarnished_Spirit",
+    "slot": "armor"
+  },
+  {
+    "title": "Tatty_Dragon_Scale_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Tazhadur",
+    "slot": "armor"
+  },
+  {
+    "title": "Teleskor",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tempest_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Terofar",
+    "slot": "helmet"
+  },
+  {
+    "title": "Terra_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Terra_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Terra_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Terra_Hood",
+    "slot": "helmet"
+  },
+  {
+    "title": "Terra_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Terra_Mantle",
+    "slot": "armor"
+  },
+  {
+    "title": "Terra_Set",
+    "slot": null
+  },
+  {
+    "title": "Terran_Rainbow_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Terrified_Elephant",
+    "slot": "shield"
+  },
+  {
+    "title": "Terror_Bird",
+    "slot": "helmet"
+  },
+  {
+    "title": "Terrorsleep",
+    "slot": "helmet"
+  },
+  {
+    "title": "Thaian",
+    "slot": "armor"
+  },
+  {
+    "title": "Thalas",
+    "slot": "ring"
+  },
+  {
+    "title": "Thanatursus",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Abomination",
+    "slot": "ring"
+  },
+  {
+    "title": "The_Baron_from_Below",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Blazing_Rose",
+    "slot": "boots"
+  },
+  {
+    "title": "The_Blazing_Time_Guardian",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Blightfather",
+    "slot": "amulet"
+  },
+  {
+    "title": "The_Bloodtusk",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Bloodweb",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Brainstealer",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Cobra_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "The_Count",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Count_of_the_Core",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Crown_of_the_Percht_Queen_(Fire)",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Crown_of_the_Percht_Queen_(Ice)",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Diamond_Blossom",
+    "slot": "ring"
+  },
+  {
+    "title": "The_Dread_Maiden",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Duke_of_the_Depths",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Enraged_Thorn_Knight",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Epic_Wisdom",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Evil_Eye",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Eye_of_Suon",
+    "slot": "amulet"
+  },
+  {
+    "title": "The_False_God",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Fear_Feaster",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Flaming_Orchid",
+    "slot": "boots"
+  },
+  {
+    "title": "The_Freezing_Time_Guardian",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Handmaiden",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Horned_Fox",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Hungerer",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Imperor",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Last_Lore_Keeper",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Lion%27s_Heart",
+    "slot": "amulet"
+  },
+  {
+    "title": "The_Lord_of_the_Lice",
+    "slot": "ring"
+  },
+  {
+    "title": "The_Many",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Monster",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Moonlight_Aster",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Nightmare_Beast",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Noxious_Spawn",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Old_Whopper",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Old_Widow",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Pale_Count",
+    "slot": "boots"
+  },
+  {
+    "title": "The_Pale_Worm",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Percht_Queen",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Rain_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Ravager",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Rootkraken",
+    "slot": "amulet"
+  },
+  {
+    "title": "The_Sandking",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Scourge_of_Oblivion",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Shield_Nevermourn",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Sinister_Hermit_(Blue)",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Snapper",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Souldespoiler",
+    "slot": "boots"
+  },
+  {
+    "title": "The_Source_of_Corruption",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Time_Guardian",
+    "slot": "armor"
+  },
+  {
+    "title": "The_Unarmored_Voidborn",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Unwelcome",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Voice_of_Ruin",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Weakened_Count",
+    "slot": "shield"
+  },
+  {
+    "title": "The_Welter",
+    "slot": "helmet"
+  },
+  {
+    "title": "The_Winter_Bloom",
+    "slot": "armor"
+  },
+  {
+    "title": "Thul",
+    "slot": "helmet"
+  },
+  {
+    "title": "Thunderheart_Cuirass",
+    "slot": "armor"
+  },
+  {
+    "title": "Thunderheart_Hauberk",
+    "slot": "armor"
+  },
+  {
+    "title": "Thunderheart_Platemail",
+    "slot": "armor"
+  },
+  {
+    "title": "Thundermind_Raiment",
+    "slot": "armor"
+  },
+  {
+    "title": "Thundersoul_Tabard",
+    "slot": "armor"
+  },
+  {
+    "title": "Tiara_of_Power",
+    "slot": "helmet"
+  },
+  {
+    "title": "Time_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Timira_the_Many-Headed",
+    "slot": "armor"
+  },
+  {
+    "title": "Toga_Mortis",
+    "slot": "armor"
+  },
+  {
+    "title": "Tomb_Servant",
+    "slot": "shield"
+  },
+  {
+    "title": "Tools",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tools_and_other_Equipment",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tormentor",
+    "slot": "legs"
+  },
+  {
+    "title": "Tortoise",
+    "slot": "shield"
+  },
+  {
+    "title": "Tortoise_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Tournament_Rewards",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tower_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Traditional_Gamsbart_Hat",
+    "slot": "amulet"
+  },
+  {
+    "title": "Traditional_Leather_Shoes",
+    "slot": "boots"
+  },
+  {
+    "title": "Traditional_Neckerchief",
+    "slot": "amulet"
+  },
+  {
+    "title": "Traditional_Shirt",
+    "slot": "armor"
+  },
+  {
+    "title": "Traditional_Stein",
+    "slot": "shield"
+  },
+  {
+    "title": "Treader_of_Torment",
+    "slot": "boots"
+  },
+  {
+    "title": "Tremendous_Tyrant",
+    "slot": "armor"
+  },
+  {
+    "title": "Tremor_Worm",
+    "slot": "armor"
+  },
+  {
+    "title": "Tribal_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Troll",
+    "slot": "helmet"
+  },
+  {
+    "title": "Troll-Trained_Salamander",
+    "slot": "helmet"
+  },
+  {
+    "title": "Troll_Champion",
+    "slot": "boots"
+  },
+  {
+    "title": "Troll_Guard",
+    "slot": "amulet"
+  },
+  {
+    "title": "Troll_Legionnaire",
+    "slot": "ring"
+  },
+  {
+    "title": "Troll_Marauder",
+    "slot": "armor"
+  },
+  {
+    "title": "Tromphonyte",
+    "slot": "armor"
+  },
+  {
+    "title": "Trophies",
+    "slot": "helmet"
+  },
+  {
+    "title": "Trousers_of_the_Ancients",
+    "slot": "legs"
+  },
+  {
+    "title": "True_Dawnfire_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "True_Frost_Flower_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "True_Midnight_Asura",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tunic",
+    "slot": "armor"
+  },
+  {
+    "title": "Tunnel_Tyrant",
+    "slot": "armor"
+  },
+  {
+    "title": "Turbulent_Elemental",
+    "slot": "helmet"
+  },
+  {
+    "title": "Turtle_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Tusk_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Twisted_Pooka",
+    "slot": "ring"
+  },
+  {
+    "title": "Twisted_Shaper",
+    "slot": "ring"
+  },
+  {
+    "title": "Two-Headed_Turtle",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tyrn",
+    "slot": "helmet"
+  },
+  {
+    "title": "Tzumrah_the_Dazzler",
+    "slot": "ring"
+  },
+  {
+    "title": "Ugly_Monster",
+    "slot": "helmet"
+  },
+  {
+    "title": "Umbral_Master_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Umbral_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Unaz_the_Mean",
+    "slot": "boots"
+  },
+  {
+    "title": "Undead_Dragon",
+    "slot": "helmet"
+  },
+  {
+    "title": "Undead_Elite_Gladiator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Undead_Gladiator",
+    "slot": "helmet"
+  },
+  {
+    "title": "Undead_Prospector",
+    "slot": "helmet"
+  },
+  {
+    "title": "Undertaker",
+    "slot": "legs"
+  },
+  {
+    "title": "Unerring_Dragon_Scale_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Unliving_Demonbone",
+    "slot": null
+  },
+  {
+    "title": "Unstable_Ring_of_Ending",
+    "slot": "ring"
+  },
+  {
+    "title": "Updates/8.2",
+    "slot": "offhand"
+  },
+  {
+    "title": "Urmahlullu_the_Weakened",
+    "slot": "helmet"
+  },
+  {
+    "title": "Ushuriel",
+    "slot": "helmet"
+  },
+  {
+    "title": "Usurper_Archer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Usurper_Commander",
+    "slot": "offhand"
+  },
+  {
+    "title": "Usurper_Knight",
+    "slot": "legs"
+  },
+  {
+    "title": "Usurper_Warlock",
+    "slot": "helmet"
+  },
+  {
+    "title": "Utua_Stone_Sting",
+    "slot": "helmet"
+  },
+  {
+    "title": "Valkyrie",
+    "slot": "armor"
+  },
+  {
+    "title": "Valuables",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vampire",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vampire%27s_Signet_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Vampire_Bride",
+    "slot": "armor"
+  },
+  {
+    "title": "Vampire_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Vampire_Silk_Slippers",
+    "slot": "boots"
+  },
+  {
+    "title": "Vampire_Viscount",
+    "slot": "shield"
+  },
+  {
+    "title": "Varnished_Diremaw",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vashresamun",
+    "slot": "helmet"
+  },
+  {
+    "title": "Velvet_Mantle",
+    "slot": "armor"
+  },
+  {
+    "title": "Venerable_Foam_Stalker",
+    "slot": "boots"
+  },
+  {
+    "title": "Venerable_Girtablilu",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vexclaw",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vibrant_Phantom",
+    "slot": "ring"
+  },
+  {
+    "title": "Vicious_Manbat",
+    "slot": "shield"
+  },
+  {
+    "title": "Vicious_Squire",
+    "slot": "helmet"
+  },
+  {
+    "title": "Viking_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Viking_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Vile_Grandmaster",
+    "slot": "helmet"
+  },
+  {
+    "title": "Visage_of_the_End_Days",
+    "slot": "helmet"
+  },
+  {
+    "title": "Vladrukh",
+    "slot": "boots"
+  },
+  {
+    "title": "Vocation",
+    "slot": "helmet"
+  },
+  {
+    "title": "Void_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Vok_the_Freakish",
+    "slot": "boots"
+  },
+  {
+    "title": "Voltage_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Vulcongra",
+    "slot": "armor"
+  },
+  {
+    "title": "Wailing_Widow",
+    "slot": "shield"
+  },
+  {
+    "title": "Wailing_Widow%27s_Necklace",
+    "slot": "amulet"
+  },
+  {
+    "title": "Walker",
+    "slot": "boots"
+  },
+  {
+    "title": "Wands",
+    "slot": "helmet"
+  },
+  {
+    "title": "War_Golem",
+    "slot": "boots"
+  },
+  {
+    "title": "Warlock",
+    "slot": "armor"
+  },
+  {
+    "title": "Warlord_Ruzad",
+    "slot": "helmet"
+  },
+  {
+    "title": "Warrior%27s_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Warrior_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Waspoid",
+    "slot": "legs"
+  },
+  {
+    "title": "Water_Elemental",
+    "slot": "ring"
+  },
+  {
+    "title": "Weakened_Shlorg",
+    "slot": "armor"
+  },
+  {
+    "title": "Weapons",
+    "slot": "helmet"
+  },
+  {
+    "title": "Wedding_Ring",
+    "slot": "ring"
+  },
+  {
+    "title": "Weeper",
+    "slot": "armor"
+  },
+  {
+    "title": "Werebadger",
+    "slot": "boots"
+  },
+  {
+    "title": "Werebear",
+    "slot": "armor"
+  },
+  {
+    "title": "Wereboar",
+    "slot": "armor"
+  },
+  {
+    "title": "Wereboar_Loincloth",
+    "slot": "legs"
+  },
+  {
+    "title": "Werefox",
+    "slot": "ring"
+  },
+  {
+    "title": "Werehyaena_Shaman",
+    "slot": "armor"
+  },
+  {
+    "title": "Werelion",
+    "slot": "armor"
+  },
+  {
+    "title": "Werelioness",
+    "slot": "helmet"
+  },
+  {
+    "title": "Werewolf",
+    "slot": "shield"
+  },
+  {
+    "title": "Werewolf_Amulet",
+    "slot": "amulet"
+  },
+  {
+    "title": "Werewolf_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "White_Dress",
+    "slot": "armor"
+  },
+  {
+    "title": "White_Lion",
+    "slot": "boots"
+  },
+  {
+    "title": "White_Pale",
+    "slot": "armor"
+  },
+  {
+    "title": "White_Weretiger",
+    "slot": "ring"
+  },
+  {
+    "title": "Wiggler",
+    "slot": "shield"
+  },
+  {
+    "title": "Wild_Warrior",
+    "slot": "helmet"
+  },
+  {
+    "title": "Willi_Wasp",
+    "slot": "amulet"
+  },
+  {
+    "title": "Windborn_Colossus_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Winged_Boots",
+    "slot": "boots"
+  },
+  {
+    "title": "Winged_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Witch",
+    "slot": "helmet"
+  },
+  {
+    "title": "Witch_Hat",
+    "slot": "helmet"
+  },
+  {
+    "title": "Witchhunter%27s_Coat",
+    "slot": "armor"
+  },
+  {
+    "title": "Wolf_Tooth_Chain",
+    "slot": "amulet"
+  },
+  {
+    "title": "Wood_Cape",
+    "slot": "helmet"
+  },
+  {
+    "title": "Wooden_Shield",
+    "slot": "shield"
+  },
+  {
+    "title": "Wooden_Spellbook",
+    "slot": "offhand"
+  },
+  {
+    "title": "Woodling",
+    "slot": "armor"
+  },
+  {
+    "title": "Worker_Golem",
+    "slot": "ring"
+  },
+  {
+    "title": "World_Devourer",
+    "slot": "helmet"
+  },
+  {
+    "title": "Wyrm",
+    "slot": "armor"
+  },
+  {
+    "title": "Xenia",
+    "slot": "shield"
+  },
+  {
+    "title": "Xogixath",
+    "slot": "boots"
+  },
+  {
+    "title": "Yaga_the_Crone",
+    "slot": "armor"
+  },
+  {
+    "title": "Yakchal",
+    "slot": "helmet"
+  },
+  {
+    "title": "Yalahari_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Yalahari_Footwraps",
+    "slot": "boots"
+  },
+  {
+    "title": "Yalahari_Leg_Piece",
+    "slot": "legs"
+  },
+  {
+    "title": "Yalahari_Mask",
+    "slot": "helmet"
+  },
+  {
+    "title": "Yeti",
+    "slot": "boots"
+  },
+  {
+    "title": "Yetislippers",
+    "slot": "boots"
+  },
+  {
+    "title": "Yielothax",
+    "slot": "legs"
+  },
+  {
+    "title": "Yirkas_Blue_Scales",
+    "slot": "helmet"
+  },
+  {
+    "title": "Young_Goanna",
+    "slot": "helmet"
+  },
+  {
+    "title": "Young_Sea_Serpent",
+    "slot": "ring"
+  },
+  {
+    "title": "Young_Troll",
+    "slot": "helmet"
+  },
+  {
+    "title": "Zamulosh",
+    "slot": "armor"
+  },
+  {
+    "title": "Zanakeph",
+    "slot": "helmet"
+  },
+  {
+    "title": "Zaoan_Armor",
+    "slot": "armor"
+  },
+  {
+    "title": "Zaoan_Helmet",
+    "slot": "helmet"
+  },
+  {
+    "title": "Zaoan_Legs",
+    "slot": "legs"
+  },
+  {
+    "title": "Zaoan_Monk_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Zaoan_Robe",
+    "slot": "armor"
+  },
+  {
+    "title": "Zaoan_Shoes",
+    "slot": "boots"
+  },
+  {
+    "title": "Zarabustor",
+    "slot": "armor"
+  },
+  {
+    "title": "Zavarash",
+    "slot": "armor"
+  },
+  {
+    "title": "Zevelon_Duskbringer",
+    "slot": "shield"
+  },
+  {
+    "title": "Zomba",
+    "slot": "shield"
+  },
+  {
+    "title": "Zombie",
+    "slot": "helmet"
+  },
+  {
+    "title": "Zorvorax",
+    "slot": "helmet"
+  },
+  {
+    "title": "Zugurosh",
+    "slot": "boots"
+  },
+  {
+    "title": "Zulazza_the_Corruptor",
+    "slot": "armor"
+  },
+  {
+    "title": "Zushuka",
+    "slot": "helmet"
+  }
+]

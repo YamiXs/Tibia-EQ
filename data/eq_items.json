@@ -1,1 +1,742 @@
-[]
+[
+  {
+    "name": "Acolyte of the Cult",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 110,
+      "death": 105,
+      "holy": 80,
+      "ice": 80,
+      "fire": 100,
+      "energy": 110,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Acolyte_of_the_Cult"
+  },
+  {
+    "name": "Adept of the Cult",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 105,
+      "holy": 70,
+      "ice": 80,
+      "fire": 100,
+      "energy": 105,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Adept_of_the_Cult"
+  },
+  {
+    "name": "Adult Goanna",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 110,
+      "earth": 75
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Adult_Goanna"
+  },
+  {
+    "name": "Afflicted Strider",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 95,
+      "death": 85,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 100,
+      "earth": 90
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Afflicted_Strider"
+  },
+  {
+    "name": "Ahau",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 100,
+      "fire": 95,
+      "energy": 95,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ahau"
+  },
+  {
+    "name": "Alicorn Headguard",
+    "slot": "helmet",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 5,
+      "earth": 5,
+      "energy": 5,
+      "ice": 5,
+      "holy": 5,
+      "death": 5,
+      "physical": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Alicorn_Headguard"
+  },
+  {
+    "name": "Alicorn Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Alicorn_Ring"
+  },
+  {
+    "name": "Alptramun",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": -100,
+      "holy": 100,
+      "ice": 80,
+      "fire": 100,
+      "energy": 95,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Alptramun"
+  },
+  {
+    "name": "Amazon",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 105,
+      "death": 105,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Amazon"
+  },
+  {
+    "name": "Amenef the Burning",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 120,
+      "fire": 85,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Amenef_the_Burning"
+  },
+  {
+    "name": "Amulets and Necklaces",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 80,
+      "fire": -10,
+      "energy": 10,
+      "earth": 20,
+      "ice": -5,
+      "holy": -50,
+      "death": 9
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Amulets_and_Necklaces"
+  },
+  {
+    "name": "Ancient Lion Knight",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 65,
+      "death": 130,
+      "holy": 100,
+      "ice": 80,
+      "fire": 90,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ancient_Lion_Knight"
+  },
+  {
+    "name": "Ancient Scarab",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 100,
+      "holy": 100,
+      "ice": 105,
+      "fire": 120,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ancient_Scarab"
+  },
+  {
+    "name": "Ancient Spawn of Morgathla",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ancient_Spawn_of_Morgathla"
+  },
+  {
+    "name": "Angry Demon",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 75,
+      "death": 80,
+      "holy": 112,
+      "ice": 112,
+      "fire": 0,
+      "energy": 50,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Angry_Demon"
+  },
+  {
+    "name": "Animated Feather",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 118,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Animated_Feather"
+  },
+  {
+    "name": "Animated Moohtant",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Animated_Moohtant"
+  },
+  {
+    "name": "Animated Mummy",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Animated_Mummy"
+  },
+  {
+    "name": "Annihilon",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 5,
+      "holy": 105,
+      "ice": 80,
+      "fire": 100,
+      "energy": 5,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Annihilon"
+  },
+  {
+    "name": "Anomaly",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 70,
+      "death": 70,
+      "holy": 70,
+      "ice": 70,
+      "fire": 70,
+      "energy": 70,
+      "earth": 70
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Anomaly"
+  },
+  {
+    "name": "Antler-Horn Helmet",
+    "slot": "helmet",
+    "level": 250,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 7
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Antler-Horn_Helmet"
+  },
+  {
+    "name": "Apprentice Sheng",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 0,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Apprentice_Sheng"
+  },
+  {
+    "name": "Arachir the Ancient One",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 0,
+      "holy": 105,
+      "ice": 95,
+      "fire": 101,
+      "energy": 95,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arachir_the_Ancient_One"
+  },
+  {
+    "name": "Arachnophobica",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 140,
+      "ice": 100,
+      "fire": 100,
+      "energy": 50,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arachnophobica"
+  },
+  {
+    "name": "Arbaziloth",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 70,
+      "death": 80,
+      "holy": 100,
+      "ice": 80,
+      "fire": 85,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arbaziloth"
+  },
+  {
+    "name": "Arboreal Crown",
+    "slot": "helmet",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 2,
+      "ice": 9
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Arboreal_Crown"
+  },
+  {
+    "name": "Arboreal Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arboreal_Ring"
+  },
+  {
+    "name": "Arboreal Tome",
+    "slot": "offhand",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 4,
+      "energy": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Arboreal_Tome"
+  },
+  {
+    "name": "Arcane Dragon Robe",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 12,
+      "fire": -6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Arcane_Dragon_Robe"
+  },
+  {
+    "name": "Arcanomancer Folio",
+    "slot": "offhand",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3,
+      "fire": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Arcanomancer_Folio"
+  },
+  {
+    "name": "Arcanomancer Regalia",
+    "slot": "helmet",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3,
+      "earth": 7
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Arcanomancer_Regalia"
+  },
+  {
+    "name": "Arcanomancer Sigil",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arcanomancer_Sigil"
+  },
+  {
+    "name": "Arctic Faun",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 80,
+      "holy": 70,
+      "ice": 20,
+      "fire": 115,
+      "energy": 110,
+      "earth": 30
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arctic_Faun"
+  },
+  {
+    "name": "Armadile",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 95,
+      "death": 55,
+      "holy": 85,
+      "ice": 85,
+      "fire": 100,
+      "energy": 85,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Armadile"
+  },
+  {
+    "name": "Armors",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 2,
+      "fire": 10,
+      "death": 3,
+      "ice": -10,
+      "earth": -5,
+      "energy": 5,
+      "holy": -2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Armors"
+  },
+  {
+    "name": "Arthei",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 0,
+      "holy": 105,
+      "ice": 90,
+      "fire": 80,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arthei"
+  },
+  {
+    "name": "Arthom the Hunter",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 110,
+      "death": 100,
+      "holy": 80,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Arthom_the_Hunter"
+  },
+  {
+    "name": "Ashmunrah",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 0,
+      "holy": 110,
+      "ice": 80,
+      "fire": 105,
+      "energy": 80,
+      "earth": 75
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ashmunrah"
+  },
+  {
+    "name": "Askarak Demon",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 105,
+      "holy": 100,
+      "ice": 40,
+      "fire": 125,
+      "energy": 40,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Askarak_Demon"
+  },
+  {
+    "name": "Askarak Lord",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 105,
+      "holy": 100,
+      "ice": 35,
+      "fire": 120,
+      "energy": 35,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Askarak_Lord"
+  },
+  {
+    "name": "Askarak Prince",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 105,
+      "holy": 100,
+      "ice": 30,
+      "fire": 115,
+      "energy": 30,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Askarak_Prince"
+  }
+]
