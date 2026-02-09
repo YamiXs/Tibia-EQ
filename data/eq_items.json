@@ -888,5 +888,175 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Boogey"
+  },
+  {
+    "name": "Brain Head",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 80,
+      "holy": 100,
+      "ice": 150,
+      "fire": 30,
+      "energy": -1000,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Brain_Head"
+  },
+  {
+    "name": "Brain in a Jar",
+    "slot": "offhand",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 7
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Brain_in_a_Jar"
+  },
+  {
+    "name": "Bruise Payne",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 80,
+      "fire": 100,
+      "energy": 100,
+      "earth": 35
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Bruise_Payne"
+  },
+  {
+    "name": "Brutus Bloodbeard",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 99,
+      "ice": 101,
+      "fire": 100,
+      "energy": 101,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Brutus_Bloodbeard"
+  },
+  {
+    "name": "Bullwark",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 90,
+      "holy": 100,
+      "ice": 85,
+      "fire": 95,
+      "energy": 85,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Bullwark"
+  },
+  {
+    "name": "Burial Shroud",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Burial_Shroud"
+  },
+  {
+    "name": "Burster",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 0,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Burster"
+  },
+  {
+    "name": "Butterfly Ring",
+    "slot": "ring",
+    "level": 50,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Butterfly_Ring"
+  },
+  {
+    "name": "Calopteryx Cape",
+    "slot": "armor",
+    "level": 80,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Calopteryx_Cape"
+  },
+  {
+    "name": "Candy Necklace",
+    "slot": "amulet",
+    "level": 220,
+    "voc": [
+      "KNIGHT",
+      "DRUID",
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "physical": 3,
+      "energy": 6,
+      "earth": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Candy_Necklace"
   }
 ]
