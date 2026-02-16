@@ -1058,5 +1058,247 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Candy_Necklace"
+  },
+  {
+    "name": "Charged Alicorn Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4,
+      "holy": 4,
+      "death": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Charged_Alicorn_Ring"
+  },
+  {
+    "name": "Charged Arboreal Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Charged_Arboreal_Ring"
+  },
+  {
+    "name": "Charged Arcanomancer Sigil",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Charged_Arcanomancer_Sigil"
+  },
+  {
+    "name": "Charged Ethereal Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Charged_Ethereal_Ring"
+  },
+  {
+    "name": "Charged Spiritthorn Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 8,
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Charged_Spiritthorn_Ring"
+  },
+  {
+    "name": "Chizzoron the Distorter",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 70,
+      "holy": 90,
+      "ice": 80,
+      "fire": 100,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Chizzoron_the_Distorter"
+  },
+  {
+    "name": "Cobra Boots",
+    "slot": "boots",
+    "level": 220,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Cobra_Boots"
+  },
+  {
+    "name": "Cobra Crown",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Cobra_Crown"
+  },
+  {
+    "name": "Cobra Hood",
+    "slot": "helmet",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Cobra_Hood"
+  },
+  {
+    "name": "Cocoa Grimoire",
+    "slot": "offhand",
+    "level": 200,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "energy": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Cocoa_Grimoire"
+  },
+  {
+    "name": "Collar of Red Plasma",
+    "slot": "amulet",
+    "level": 150,
+    "voc": [
+      "KNIGHT",
+      "DRUID"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Collar_of_Red_Plasma"
+  },
+  {
+    "name": "Conch Shell Horn",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "ice": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Conch_Shell_Horn"
+  },
+  {
+    "name": "Control Tower",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 45,
+      "ice": 100,
+      "fire": 45,
+      "energy": 45,
+      "earth": 45
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Control_Tower"
+  },
+  {
+    "name": "Count Vlarkorth",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 110,
+      "holy": 100,
+      "ice": 100,
+      "fire": 95,
+      "energy": 95,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Count_Vlarkorth"
+  },
+  {
+    "name": "Countess Sorrow",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 0,
+      "death": 0,
+      "holy": 100,
+      "ice": 50,
+      "fire": 110,
+      "energy": 90,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Countess_Sorrow"
   }
 ]
