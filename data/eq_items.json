@@ -1300,5 +1300,124 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Countess_Sorrow"
+  },
+  {
+    "name": "Creamy Grimoire",
+    "slot": "offhand",
+    "level": 200,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 2,
+      "fire": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Creamy_Grimoire"
+  },
+  {
+    "name": "Crest of the Deep Seas",
+    "slot": "helmet",
+    "level": 80,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "ice": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Crest_of_the_Deep_Seas"
+  },
+  {
+    "name": "Crude Umbral Spellbook",
+    "slot": "offhand",
+    "level": 75,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 2,
+      "earth": 2,
+      "energy": 2,
+      "ice": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Crude_Umbral_Spellbook"
+  },
+  {
+    "name": "Crystal Boots",
+    "slot": "boots",
+    "level": 70,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 3,
+      "energy": -3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Crystal_Boots"
+  },
+  {
+    "name": "Crystalline Armor",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 3,
+      "energy": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Crystalline_Armor"
+  },
+  {
+    "name": "Custodian",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 30,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Custodian"
+  },
+  {
+    "name": "Dark Vision Bandana",
+    "slot": "helmet",
+    "level": 180,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "energy": 4
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dark_Vision_Bandana"
+  },
+  {
+    "name": "Dark Whispers",
+    "slot": "helmet",
+    "level": 180,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dark_Whispers"
   }
 ]
