@@ -1419,5 +1419,229 @@
     },
     "imbueSlots": 2,
     "source": "https://tibia.fandom.com/wiki/Dark_Whispers"
+  },
+  {
+    "name": "Dauntless Dragon Scale Armor",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dauntless_Dragon_Scale_Armor"
+  },
+  {
+    "name": "Dawnfire Pantaloons",
+    "slot": "legs",
+    "level": 300,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dawnfire_Pantaloons"
+  },
+  {
+    "name": "Dawnfire Sherwani",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 10,
+      "earth": -2
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Dawnfire_Sherwani"
+  },
+  {
+    "name": "Dawnfly",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dawnfly"
+  },
+  {
+    "name": "Deadeye Devious",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Deadeye_Devious"
+  },
+  {
+    "name": "Death Oyoroi",
+    "slot": "armor",
+    "level": 230,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Death_Oyoroi"
+  },
+  {
+    "name": "Death Ring",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Death_Ring"
+  },
+  {
+    "name": "Deepling Ceremonial Dagger",
+    "slot": "unknown",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Deepling_Ceremonial_Dagger"
+  },
+  {
+    "name": "Deepling Fork",
+    "slot": "unknown",
+    "level": 230,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "holy": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Deepling_Fork"
+  },
+  {
+    "name": "Demon Mengu",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Demon_Mengu"
+  },
+  {
+    "name": "Demonfang Mask",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Demonfang_Mask"
+  },
+  {
+    "name": "Depth Calcei",
+    "slot": "boots",
+    "level": 150,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Depth_Calcei"
+  },
+  {
+    "name": "Depth Lorica",
+    "slot": "armor",
+    "level": 150,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Depth_Lorica"
+  },
+  {
+    "name": "Dipthrah",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 0,
+      "death": 0,
+      "holy": 110,
+      "ice": 100,
+      "fire": 95,
+      "energy": 80,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dipthrah"
+  },
+  {
+    "name": "Dirtbeard",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 90,
+      "ice": 105,
+      "fire": 110,
+      "energy": 100,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dirtbeard"
   }
 ]
