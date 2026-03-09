@@ -1,11 +1,11 @@
 {
-  "index": 360,
+  "index": 420,
   "batchSize": 60,
   "createdAt": 1770242347,
-  "lastRun": 1772427522,
-  "lastAdded": 15,
-  "lastProcessed": 58,
+  "lastRun": 1773032599,
+  "lastAdded": 20,
+  "lastProcessed": 59,
   "totalTitles": 1684,
-  "totalItems": 98,
-  "lastSkippedNonItem": 32
+  "totalItems": 118,
+  "lastSkippedNonItem": 31
 }

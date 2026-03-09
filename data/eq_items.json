@@ -1643,5 +1643,310 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Dirtbeard"
+  },
+  {
+    "name": "Divine Plate",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "PALADIN",
+      "SORCERER"
+    ],
+    "res": {
+      "death": 10,
+      "holy": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Divine_Plate"
+  },
+  {
+    "name": "Dragon Robe",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 12,
+      "ice": -12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dragon_Robe"
+  },
+  {
+    "name": "Dragon Scale Boots",
+    "slot": "boots",
+    "level": 70,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 3,
+      "ice": -3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Dragon_Scale_Boots"
+  },
+  {
+    "name": "Dreadfire Headpiece",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dreadfire_Headpiece"
+  },
+  {
+    "name": "Dreadful Disruptor",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 85,
+      "holy": 100,
+      "ice": 75,
+      "fire": 75,
+      "energy": 20,
+      "earth": 90
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dreadful_Disruptor"
+  },
+  {
+    "name": "Dream Shroud",
+    "slot": "armor",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 10
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Dream_Shroud"
+  },
+  {
+    "name": "Drume",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 65,
+      "death": 50,
+      "holy": 120,
+      "ice": 100,
+      "fire": 100,
+      "energy": 120,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Drume"
+  },
+  {
+    "name": "Duke Krule",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": -60,
+      "holy": 100,
+      "ice": 100,
+      "fire": 115,
+      "energy": 95,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Duke_Krule"
+  },
+  {
+    "name": "Dwarven Armor",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dwarven_Armor"
+  },
+  {
+    "name": "Dwarven Helmet",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 2
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Dwarven_Helmet"
+  },
+  {
+    "name": "Dwarven Legs",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Dwarven_Legs"
+  },
+  {
+    "name": "Earth Overlord",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 80,
+      "holy": 100,
+      "ice": 80,
+      "fire": 125,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earth_Overlord"
+  },
+  {
+    "name": "Earthborn Titan Armor",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthborn_Titan_Armor"
+  },
+  {
+    "name": "Earthheart Cuirass",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthheart_Cuirass"
+  },
+  {
+    "name": "Earthheart Hauberk",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthheart_Hauberk"
+  },
+  {
+    "name": "Earthheart Platemail",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthheart_Platemail"
+  },
+  {
+    "name": "Earthmind Raiment",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthmind_Raiment"
+  },
+  {
+    "name": "Earthsoul Tabard",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earthsoul_Tabard"
+  },
+  {
+    "name": "Earworm",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Earworm"
+  },
+  {
+    "name": "Ectoplasmic Shield",
+    "slot": "shield",
+    "level": 180,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "ice": 7,
+      "fire": -3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Ectoplasmic_Shield"
   }
 ]
