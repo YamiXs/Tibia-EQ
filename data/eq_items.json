@@ -1948,5 +1948,417 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Ectoplasmic_Shield"
+  },
+  {
+    "name": "Eldritch Breeches",
+    "slot": "legs",
+    "level": 250,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 2,
+      "holy": 7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Breeches"
+  },
+  {
+    "name": "Eldritch Cowl",
+    "slot": "helmet",
+    "level": 250,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 7
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Cowl"
+  },
+  {
+    "name": "Eldritch Cuirass",
+    "slot": "armor",
+    "level": 250,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 10
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Cuirass"
+  },
+  {
+    "name": "Eldritch Folio",
+    "slot": "offhand",
+    "level": 300,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Folio"
+  },
+  {
+    "name": "Eldritch Hood",
+    "slot": "helmet",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "earth": 7
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Hood"
+  },
+  {
+    "name": "Eldritch Monk Boots",
+    "slot": "boots",
+    "level": 300,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "energy": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Monk_Boots"
+  },
+  {
+    "name": "Eldritch Shield",
+    "slot": "shield",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Shield"
+  },
+  {
+    "name": "Eldritch Tome",
+    "slot": "offhand",
+    "level": 300,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Eldritch_Tome"
+  },
+  {
+    "name": "Elite Draken Helmet",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Elite_Draken_Helmet"
+  },
+  {
+    "name": "Embrace of Nature",
+    "slot": "armor",
+    "level": 220,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 11,
+      "energy": -3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Embrace_of_Nature"
+  },
+  {
+    "name": "Enchanted Blister Ring",
+    "slot": "ring",
+    "level": 220,
+    "voc": [
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "fire": 6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Blister_Ring"
+  },
+  {
+    "name": "Enchanted Merudri Brooch",
+    "slot": "amulet",
+    "level": 220,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "fire": 15
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Merudri_Brooch"
+  },
+  {
+    "name": "Enchanted Pendulet",
+    "slot": "amulet",
+    "level": 180,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 5,
+      "energy": 18
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Pendulet"
+  },
+  {
+    "name": "Enchanted Sleep Shawl",
+    "slot": "amulet",
+    "level": 180,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 7,
+      "earth": 24
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Sleep_Shawl"
+  },
+  {
+    "name": "Enchanted Theurgic Amulet",
+    "slot": "amulet",
+    "level": 220,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3,
+      "earth": 14
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Theurgic_Amulet"
+  },
+  {
+    "name": "Enchanted Turtle Amulet",
+    "slot": "amulet",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 7,
+      "ice": 15
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Turtle_Amulet"
+  },
+  {
+    "name": "Enchanted Werewolf Amulet",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Amulet"
+  },
+  {
+    "name": "Enchanted Werewolf Helmet (Axe)",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Helmet_%28Axe%29"
+  },
+  {
+    "name": "Enchanted Werewolf Helmet (Club)",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Helmet_%28Club%29"
+  },
+  {
+    "name": "Enchanted Werewolf Helmet (Distance)",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Helmet_%28Distance%29"
+  },
+  {
+    "name": "Enchanted Werewolf Helmet (Magic)",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Helmet_%28Magic%29"
+  },
+  {
+    "name": "Enchanted Werewolf Helmet (Sword)",
+    "slot": "helmet",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enchanted_Werewolf_Helmet_%28Sword%29"
+  },
+  {
+    "name": "Energized Limb",
+    "slot": "unknown",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 10
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Energized_Limb"
+  },
+  {
+    "name": "Energy Overlord",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 80,
+      "energy": 0,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Energy_Overlord"
+  },
+  {
+    "name": "Energy Robe",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Energy_Robe"
+  },
+  {
+    "name": "Enusat the Onyx Wing",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Enusat_the_Onyx_Wing"
+  },
+  {
+    "name": "Eradicator",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 100,
+      "holy": 50,
+      "ice": 50,
+      "fire": 50,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Eradicator"
+  },
+  {
+    "name": "Ethereal Coned Hat",
+    "slot": "helmet",
+    "level": 400,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "fire": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Ethereal_Coned_Hat"
+  },
+  {
+    "name": "Ethereal Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 1,
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ethereal_Ring"
   }
 ]
