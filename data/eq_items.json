@@ -2360,5 +2360,374 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Ethereal_Ring"
+  },
+  {
+    "name": "Exotic Amulet",
+    "slot": "amulet",
+    "level": 180,
+    "voc": [
+      "KNIGHT",
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "earth": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Exotic_Amulet"
+  },
+  {
+    "name": "Exotic Legs",
+    "slot": "legs",
+    "level": 130,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Exotic_Legs"
+  },
+  {
+    "name": "Fabulous Legs",
+    "slot": "legs",
+    "level": 225,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 4,
+      "fire": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fabulous_Legs"
+  },
+  {
+    "name": "Faceless Bane",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 80,
+      "death": 50,
+      "holy": 100,
+      "ice": 100,
+      "fire": 120,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Faceless_Bane"
+  },
+  {
+    "name": "Fahim the Wise",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 110,
+      "holy": 99,
+      "ice": 115,
+      "fire": 99,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fahim_the_Wise"
+  },
+  {
+    "name": "Falcon Circlet",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 9
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Circlet"
+  },
+  {
+    "name": "Falcon Coif",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "fire": 10
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Coif"
+  },
+  {
+    "name": "Falcon Escutcheon",
+    "slot": "shield",
+    "level": 300,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 7,
+      "fire": 15
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Escutcheon"
+  },
+  {
+    "name": "Falcon Greaves",
+    "slot": "legs",
+    "level": 300,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "MONK"
+    ],
+    "res": {
+      "physical": 7,
+      "ice": 7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Greaves"
+  },
+  {
+    "name": "Falcon Mace",
+    "slot": "unknown",
+    "level": 300,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "energy": 7
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Mace"
+  },
+  {
+    "name": "Falcon Plate",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 12
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Plate"
+  },
+  {
+    "name": "Falcon Shield",
+    "slot": "shield",
+    "level": 300,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 6,
+      "fire": 10
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Shield"
+  },
+  {
+    "name": "Falcon Wand",
+    "slot": "unknown",
+    "level": 300,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Falcon_Wand"
+  },
+  {
+    "name": "Fazzrah",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fazzrah"
+  },
+  {
+    "name": "Feverbloom Boots",
+    "slot": "boots",
+    "level": 270,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 7
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Feverbloom_Boots"
+  },
+  {
+    "name": "Fire Overlord",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 80,
+      "holy": 100,
+      "ice": 125,
+      "fire": 0,
+      "energy": 80,
+      "earth": 20
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fire_Overlord"
+  },
+  {
+    "name": "Fireborn Giant Armor",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "fire": 5,
+      "ice": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fireborn_Giant_Armor"
+  },
+  {
+    "name": "Fireheart Cuirass",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fireheart_Cuirass"
+  },
+  {
+    "name": "Fireheart Hauberk",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fireheart_Hauberk"
+  },
+  {
+    "name": "Fireheart Platemail",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fireheart_Platemail"
+  },
+  {
+    "name": "Firemind Raiment",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Firemind_Raiment"
+  },
+  {
+    "name": "Firesoul Tabard",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Firesoul_Tabard"
+  },
+  {
+    "name": "Fleshcrawler",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 110,
+      "holy": 100,
+      "ice": 100,
+      "fire": 115,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fleshcrawler"
+  },
+  {
+    "name": "Fleshslicer",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Fleshslicer"
   }
 ]
