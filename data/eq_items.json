@@ -2729,5 +2729,376 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Fleshslicer"
+  },
+  {
+    "name": "Foxtail Amulet",
+    "slot": "amulet",
+    "level": 100,
+    "voc": [
+      "PALADIN",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Foxtail_Amulet"
+  },
+  {
+    "name": "Frostflower Boots",
+    "slot": "boots",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "ice": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Frostflower_Boots"
+  },
+  {
+    "name": "Frostheart Cuirass",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frostheart_Cuirass"
+  },
+  {
+    "name": "Frostheart Hauberk",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frostheart_Hauberk"
+  },
+  {
+    "name": "Frostheart Platemail",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frostheart_Platemail"
+  },
+  {
+    "name": "Frostmind Raiment",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frostmind_Raiment"
+  },
+  {
+    "name": "Frostsoul Tabard",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frostsoul_Tabard"
+  },
+  {
+    "name": "Frozen Plate",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 7,
+      "energy": -7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Frozen_Plate"
+  },
+  {
+    "name": "Furious Frock",
+    "slot": "armor",
+    "level": 130,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Furious_Frock"
+  },
+  {
+    "name": "Furious Scorpion",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 120,
+      "fire": 80,
+      "energy": 100,
+      "earth": 30
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Furious_Scorpion"
+  },
+  {
+    "name": "Gaffir",
+    "slot": "offhand",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 80,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 70,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gaffir"
+  },
+  {
+    "name": "Galea Mortis",
+    "slot": "helmet",
+    "level": 220,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 6,
+      "holy": -3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Galea_Mortis"
+  },
+  {
+    "name": "General Murius",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/General_Murius"
+  },
+  {
+    "name": "Ghazbaran",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 70,
+      "death": 99,
+      "holy": 105,
+      "ice": 0,
+      "fire": 0,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ghazbaran"
+  },
+  {
+    "name": "Ghazbaran Oyoroi",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "ice": 7,
+      "energy": -7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ghazbaran_Oyoroi"
+  },
+  {
+    "name": "Ghost Chestplate",
+    "slot": "armor",
+    "level": 230,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Ghost_Chestplate"
+  },
+  {
+    "name": "Ghost of a Planegazer",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 0,
+      "death": 0,
+      "holy": 0,
+      "ice": 0,
+      "fire": 10,
+      "energy": 0,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ghost_of_a_Planegazer"
+  },
+  {
+    "name": "Gill Coat",
+    "slot": "armor",
+    "level": 150,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 10,
+      "fire": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gill_Coat"
+  },
+  {
+    "name": "Gill Gugel",
+    "slot": "helmet",
+    "level": 150,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 6,
+      "fire": -6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gill_Gugel"
+  },
+  {
+    "name": "Gill Legs",
+    "slot": "legs",
+    "level": 150,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gill_Legs"
+  },
+  {
+    "name": "Gill Necklace",
+    "slot": "amulet",
+    "level": 150,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 15,
+      "earth": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gill_Necklace"
+  },
+  {
+    "name": "Glacier Amulet",
+    "slot": "amulet",
+    "level": 60,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 20,
+      "energy": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Amulet"
+  },
+  {
+    "name": "Glacier Kilt",
+    "slot": "legs",
+    "level": 40,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 6,
+      "energy": -6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Kilt"
+  },
+  {
+    "name": "Glacier Mask",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "PALADIN",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 4,
+      "energy": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Mask"
   }
 ]
