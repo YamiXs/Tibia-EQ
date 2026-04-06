@@ -3100,5 +3100,339 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Glacier_Mask"
+  },
+  {
+    "name": "Glacier Robe",
+    "slot": "armor",
+    "level": 50,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Robe"
+  },
+  {
+    "name": "Glacier Set",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "ice": 5,
+      "energy": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Set"
+  },
+  {
+    "name": "Glacier Shoes",
+    "slot": "boots",
+    "level": 35,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 5,
+      "energy": -5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Glacier_Shoes"
+  },
+  {
+    "name": "Glooth Amulet",
+    "slot": "amulet",
+    "level": 75,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 10,
+      "fire": 10,
+      "earth": 10,
+      "energy": 10,
+      "ice": 10,
+      "holy": 10,
+      "death": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glooth_Amulet"
+  },
+  {
+    "name": "Glooth Cape",
+    "slot": "armor",
+    "level": 40,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Glooth_Cape"
+  },
+  {
+    "name": "Gnome Armor",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 8,
+      "physical": 4,
+      "ice": -2
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Gnome_Armor"
+  },
+  {
+    "name": "Gnome Helmet",
+    "slot": "helmet",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 8,
+      "physical": 3,
+      "ice": -2
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Gnome_Helmet"
+  },
+  {
+    "name": "Gnome Legs",
+    "slot": "legs",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 7,
+      "ice": -2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gnome_Legs"
+  },
+  {
+    "name": "Gnome Shield",
+    "slot": "shield",
+    "level": 200,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 8,
+      "physical": 6,
+      "ice": -2
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Gnome_Shield"
+  },
+  {
+    "name": "Gnomish Cuirass",
+    "slot": "armor",
+    "level": 150,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Gnomish_Cuirass"
+  },
+  {
+    "name": "Gnomish Footwraps",
+    "slot": "boots",
+    "level": 150,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "earth": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Gnomish_Footwraps"
+  },
+  {
+    "name": "Golgordan",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 0,
+      "holy": 99,
+      "ice": 101,
+      "fire": 105,
+      "energy": 70,
+      "earth": 95
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Golgordan"
+  },
+  {
+    "name": "Goo Shell",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "earth": 2,
+      "fire": -2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Goo_Shell"
+  },
+  {
+    "name": "Gorgo",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 80,
+      "fire": 105,
+      "energy": 110,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gorgo"
+  },
+  {
+    "name": "Grand Canon Dominus",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 40,
+      "death": 50,
+      "holy": 100,
+      "ice": 50,
+      "fire": 50,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grand_Canon_Dominus"
+  },
+  {
+    "name": "Grand Chaplain Gaunder",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 20,
+      "death": 50,
+      "holy": 100,
+      "ice": 50,
+      "fire": 50,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grand_Chaplain_Gaunder"
+  },
+  {
+    "name": "Grand Commander Soeren",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 50,
+      "holy": 125,
+      "ice": 50,
+      "fire": 50,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grand_Commander_Soeren"
+  },
+  {
+    "name": "Grand Master Oberon",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 50,
+      "holy": 120,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grand_Master_Oberon"
+  },
+  {
+    "name": "Grandfather Tridian",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 65,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 75,
+      "energy": 95,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grandfather_Tridian"
+  },
+  {
+    "name": "Gravelord Oshuran",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 110,
+      "ice": 65,
+      "fire": 90,
+      "energy": 20,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Gravelord_Oshuran"
   }
 ]
