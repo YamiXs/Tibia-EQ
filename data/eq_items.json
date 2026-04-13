@@ -3434,5 +3434,163 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Gravelord_Oshuran"
+  },
+  {
+    "name": "Greenwood Coat",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 12,
+      "fire": -12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Greenwood_Coat"
+  },
+  {
+    "name": "Groam",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 110,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Groam"
+  },
+  {
+    "name": "Grorlam",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 70,
+      "death": 101,
+      "holy": 80,
+      "ice": 100,
+      "fire": 110,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Grorlam"
+  },
+  {
+    "name": "Guard Captain Quaid",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 85,
+      "death": 100,
+      "holy": 120,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Guard_Captain_Quaid"
+  },
+  {
+    "name": "Guardian Boots",
+    "slot": "boots",
+    "level": 70,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 2,
+      "holy": -2
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Guardian_Boots"
+  },
+  {
+    "name": "Hairman the Huge",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 101,
+      "holy": 100,
+      "ice": 101,
+      "fire": 75,
+      "energy": 80,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Hairman_the_Huge"
+  },
+  {
+    "name": "Hellgorak",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 2,
+      "holy": 5,
+      "ice": 2,
+      "fire": 2,
+      "energy": 2,
+      "earth": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Hellgorak"
+  },
+  {
+    "name": "Hellstalker Visor",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "death": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Hellstalker_Visor"
+  },
+  {
+    "name": "Horadron",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 100,
+      "holy": 140,
+      "ice": 70,
+      "fire": 70,
+      "energy": 70,
+      "earth": 70
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Horadron"
   }
 ]
