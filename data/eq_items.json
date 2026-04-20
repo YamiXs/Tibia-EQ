@@ -3592,5 +3592,123 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Horadron"
+  },
+  {
+    "name": "Ice Robe",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "ice": 8,
+      "energy": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ice_Robe"
+  },
+  {
+    "name": "Icy Culottes",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Icy_Culottes"
+  },
+  {
+    "name": "Iks Footwraps",
+    "slot": "boots",
+    "level": 250,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "fire": 4
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Iks_Footwraps"
+  },
+  {
+    "name": "Irgix the Flimsy",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 0,
+      "holy": 100,
+      "ice": 110,
+      "fire": 100,
+      "energy": 0,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Irgix_the_Flimsy"
+  },
+  {
+    "name": "Jade Conical Hat",
+    "slot": "helmet",
+    "level": 110,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "ice": 4
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Jade_Conical_Hat"
+  },
+  {
+    "name": "Jade Legs",
+    "slot": "legs",
+    "level": 210,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Jade_Legs"
+  },
+  {
+    "name": "Jaul",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 85,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 99,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Jaul"
+  },
+  {
+    "name": "Jungle Survivor Legs",
+    "slot": "legs",
+    "level": 130,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "fire": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Jungle_Survivor_Legs"
   }
 ]
