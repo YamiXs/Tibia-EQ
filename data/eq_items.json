@@ -3710,5 +3710,309 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Jungle_Survivor_Legs"
+  },
+  {
+    "name": "Kusuma",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 105,
+      "energy": 110,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Kusuma"
+  },
+  {
+    "name": "Latrivan",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 101,
+      "fire": 105,
+      "energy": 70,
+      "earth": 95
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Latrivan"
+  },
+  {
+    "name": "Lavos Armor",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 3,
+      "ice": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lavos_Armor"
+  },
+  {
+    "name": "Leaf Robe",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Leaf_Robe"
+  },
+  {
+    "name": "Legs of Enlightenment",
+    "slot": "legs",
+    "level": 40,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "earth": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Legs_of_Enlightenment"
+  },
+  {
+    "name": "Legs of Wisdom",
+    "slot": "legs",
+    "level": 80,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "energy": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Legs_of_Wisdom"
+  },
+  {
+    "name": "Lethal Lissy",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lethal_Lissy"
+  },
+  {
+    "name": "Lightning Boots",
+    "slot": "boots",
+    "level": 35,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 5,
+      "earth": -5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Boots"
+  },
+  {
+    "name": "Lightning Headband",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 4,
+      "earth": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Headband"
+  },
+  {
+    "name": "Lightning Legs",
+    "slot": "legs",
+    "level": 40,
+    "voc": [
+      "KNIGHT",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 6,
+      "earth": -6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Legs"
+  },
+  {
+    "name": "Lightning Pendant",
+    "slot": "amulet",
+    "level": 60,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "energy": 20,
+      "earth": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Pendant"
+  },
+  {
+    "name": "Lightning Robe",
+    "slot": "armor",
+    "level": 50,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Robe"
+  },
+  {
+    "name": "Lightning Set",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "energy": 5,
+      "earth": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lightning_Set"
+  },
+  {
+    "name": "Lion Amulet",
+    "slot": "amulet",
+    "level": 230,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "DRUID",
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lion_Amulet"
+  },
+  {
+    "name": "Lion Longbow",
+    "slot": "unknown",
+    "level": 270,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "ice": 5
+    },
+    "imbueSlots": 3,
+    "source": "https://tibia.fandom.com/wiki/Lion_Longbow"
+  },
+  {
+    "name": "Lion Plate",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Lion_Plate"
+  },
+  {
+    "name": "Lion Shield",
+    "slot": "shield",
+    "level": 250,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 7,
+      "earth": 10
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Lion_Shield"
+  },
+  {
+    "name": "Lion Spangenhelm",
+    "slot": "helmet",
+    "level": 230,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "earth": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Lion_Spangenhelm"
+  },
+  {
+    "name": "Lion Spellbook",
+    "slot": "offhand",
+    "level": 220,
+    "voc": [
+      "KNIGHT",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 7
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Lion_Spellbook"
+  },
+  {
+    "name": "Lit Torch (Sparkling)",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "holy": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lit_Torch_%28Sparkling%29"
   }
 ]
