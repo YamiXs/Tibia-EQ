@@ -4014,5 +4014,248 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Lit_Torch_%28Sparkling%29"
+  },
+  {
+    "name": "Living Armor",
+    "slot": "armor",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 12,
+      "fire": -5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Living_Armor"
+  },
+  {
+    "name": "Lizard Gate Guardian",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 90,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lizard_Gate_Guardian"
+  },
+  {
+    "name": "Lord Azaram",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 95,
+      "earth": -260
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Lord_Azaram"
+  },
+  {
+    "name": "Magic Level",
+    "slot": "offhand",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "fire": 15,
+      "ice": 4,
+      "energy": 4,
+      "earth": 14,
+      "holy": 4,
+      "death": 4,
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Magic_Level"
+  },
+  {
+    "name": "Magma Amulet",
+    "slot": "amulet",
+    "level": 60,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 20,
+      "ice": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Magma_Amulet"
+  },
+  {
+    "name": "Magma Boots",
+    "slot": "boots",
+    "level": 35,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 5,
+      "ice": -5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Magma_Boots"
+  },
+  {
+    "name": "Magma Legs",
+    "slot": "legs",
+    "level": 40,
+    "voc": [
+      "KNIGHT",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 6,
+      "ice": -6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Magma_Legs"
+  },
+  {
+    "name": "Magma Monocle",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 4,
+      "ice": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Magma_Monocle"
+  },
+  {
+    "name": "Magma Robe",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "fire": 8,
+      "ice": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Magma_Robe"
+  },
+  {
+    "name": "Mahatheb",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mahatheb"
+  },
+  {
+    "name": "Mahrdis",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 120,
+      "ice": 110,
+      "fire": 0,
+      "energy": 80,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mahrdis"
+  },
+  {
+    "name": "Make-Do Boots",
+    "slot": "boots",
+    "level": 150,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "ice": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Make-Do_Boots"
+  },
+  {
+    "name": "Makeshift Boots",
+    "slot": "boots",
+    "level": 150,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Makeshift_Boots"
+  },
+  {
+    "name": "Maliceforged Helmet",
+    "slot": "helmet",
+    "level": 300,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 3,
+      "death": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Maliceforged_Helmet"
+  },
+  {
+    "name": "Malofur Mangrinder",
+    "slot": "offhand",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": -100,
+      "energy": 95,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Malofur_Mangrinder"
   }
 ]
