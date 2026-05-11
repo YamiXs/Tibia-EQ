@@ -4257,5 +4257,267 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Malofur_Mangrinder"
+  },
+  {
+    "name": "Mazoran",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 0,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mazoran"
+  },
+  {
+    "name": "Memory of a Banshee",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 100,
+      "fire": 0,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_a_Banshee"
+  },
+  {
+    "name": "Memory of a Lizard",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_a_Lizard"
+  },
+  {
+    "name": "Memory of a Pirate",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_a_Pirate"
+  },
+  {
+    "name": "Memory of a Scarab",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_a_Scarab"
+  },
+  {
+    "name": "Memory of a Shaper",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_a_Shaper"
+  },
+  {
+    "name": "Memory of an Ogre",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Memory_of_an_Ogre"
+  },
+  {
+    "name": "Mephiles",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 110,
+      "death": 100,
+      "holy": 105,
+      "ice": 110,
+      "fire": 0,
+      "energy": 100,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mephiles"
+  },
+  {
+    "name": "Merudri Battle Mail",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "earth": 10,
+      "energy": -5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Merudri_Battle_Mail"
+  },
+  {
+    "name": "Merudri Scale Mail",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "fire": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Merudri_Scale_Mail"
+  },
+  {
+    "name": "Midnight Sarong",
+    "slot": "legs",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "ice": 7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Midnight_Sarong"
+  },
+  {
+    "name": "Midnight Tunic",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Midnight_Tunic"
+  },
+  {
+    "name": "Might Ring",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 20,
+      "fire": 20,
+      "earth": 20,
+      "energy": 20,
+      "ice": 20,
+      "holy": 20,
+      "death": 20
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Might_Ring"
+  },
+  {
+    "name": "Mindmasher",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mindmasher"
+  },
+  {
+    "name": "Minotaur Bruiser",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Minotaur_Bruiser"
   }
 ]
