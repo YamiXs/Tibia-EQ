@@ -4519,5 +4519,344 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Minotaur_Bruiser"
+  },
+  {
+    "name": "Minotaur Occultist",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 90,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Minotaur_Occultist"
+  },
+  {
+    "name": "Minotaur Poacher",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 80,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Minotaur_Poacher"
+  },
+  {
+    "name": "Mitmah Vanguard",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 100,
+      "ice": 80,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mitmah_Vanguard"
+  },
+  {
+    "name": "Molten Plate",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 7,
+      "ice": -7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Molten_Plate"
+  },
+  {
+    "name": "Moon Mirror",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Moon_Mirror"
+  },
+  {
+    "name": "Morguthis",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 80,
+      "death": 0,
+      "holy": 120,
+      "ice": 80,
+      "fire": 75,
+      "energy": 75,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Morguthis"
+  },
+  {
+    "name": "Morshabaal",
+    "slot": "helmet",
+    "level": 150,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 95,
+      "energy": 95,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Morshabaal"
+  },
+  {
+    "name": "Muglex Clan Scavenger",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Muglex_Clan_Scavenger"
+  },
+  {
+    "name": "Museum Stone Golem",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Museum_Stone_Golem"
+  },
+  {
+    "name": "Mutant Bone Boots",
+    "slot": "boots",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Mutant_Bone_Boots"
+  },
+  {
+    "name": "Mutant Bone Kilt",
+    "slot": "legs",
+    "level": 300,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mutant_Bone_Kilt"
+  },
+  {
+    "name": "Mutant Hide Trousers",
+    "slot": "legs",
+    "level": 300,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "earth": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mutant_Hide_Trousers"
+  },
+  {
+    "name": "Mutated Skin Armor",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "earth": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Mutated_Skin_Armor"
+  },
+  {
+    "name": "Mutated Skin Legs",
+    "slot": "legs",
+    "level": 270,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 4,
+      "earth": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Mutated_Skin_Legs"
+  },
+  {
+    "name": "Mystical Dragon Robe",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 12,
+      "ice": -6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Mystical_Dragon_Robe"
+  },
+  {
+    "name": "Naga Crossbow",
+    "slot": "unknown",
+    "level": 300,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "earth": 4
+    },
+    "imbueSlots": 3,
+    "source": "https://tibia.fandom.com/wiki/Naga_Crossbow"
+  },
+  {
+    "name": "Naga Rod",
+    "slot": "unknown",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 4
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Naga_Rod"
+  },
+  {
+    "name": "Naga Tanko",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "fire": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Naga_Tanko"
+  },
+  {
+    "name": "Necropharus",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Necropharus"
+  },
+  {
+    "name": "Neferi the Spy",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 80,
+      "holy": 100,
+      "ice": 110,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Neferi_the_Spy"
+  },
+  {
+    "name": "Neutral Deepling Warrior",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 90,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 110,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Neutral_Deepling_Warrior"
   }
 ]
