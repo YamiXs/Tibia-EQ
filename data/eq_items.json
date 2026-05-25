@@ -4858,5 +4858,319 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Neutral_Deepling_Warrior"
+  },
+  {
+    "name": "Norcferatu Bloodhide",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Bloodhide"
+  },
+  {
+    "name": "Norcferatu Bloodstrider",
+    "slot": "legs",
+    "level": 270,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "death": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Bloodstrider"
+  },
+  {
+    "name": "Norcferatu Bonecloak",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "ice": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Bonecloak"
+  },
+  {
+    "name": "Norcferatu Bonehood",
+    "slot": "helmet",
+    "level": 230,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "ice": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Bonehood"
+  },
+  {
+    "name": "Norcferatu Fangstompers",
+    "slot": "boots",
+    "level": 270,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Fangstompers"
+  },
+  {
+    "name": "Norcferatu Fleshguards",
+    "slot": "legs",
+    "level": 230,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "death": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Fleshguards"
+  },
+  {
+    "name": "Norcferatu Goretrampers",
+    "slot": "boots",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "earth": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Goretrampers"
+  },
+  {
+    "name": "Norcferatu Skullguard",
+    "slot": "helmet",
+    "level": 270,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Skullguard"
+  },
+  {
+    "name": "Norcferatu Thornwraps",
+    "slot": "legs",
+    "level": 270,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 4,
+      "death": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Thornwraps"
+  },
+  {
+    "name": "Norcferatu Tuskplate",
+    "slot": "armor",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Norcferatu_Tuskplate"
+  },
+  {
+    "name": "Obujos",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 75,
+      "death": 40,
+      "holy": 100,
+      "ice": 80,
+      "fire": 40,
+      "energy": 85,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Obujos"
+  },
+  {
+    "name": "Oceanborn Leviathan Armor",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "ice": 5,
+      "energy": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Oceanborn_Leviathan_Armor"
+  },
+  {
+    "name": "Ocyakao",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 100,
+      "ice": 0,
+      "fire": 90,
+      "energy": 110,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ocyakao"
+  },
+  {
+    "name": "Omrafir",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 50,
+      "holy": 50,
+      "ice": 50,
+      "fire": 0,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Omrafir"
+  },
+  {
+    "name": "Omruc",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 110,
+      "ice": 105,
+      "fire": 80,
+      "energy": 105,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Omruc"
+  },
+  {
+    "name": "Onyx Pendant",
+    "slot": "amulet",
+    "level": 60,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Onyx_Pendant"
+  },
+  {
+    "name": "Oodok Witchmaster",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 65,
+      "ice": 80,
+      "fire": 105,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Oodok_Witchmaster"
+  },
+  {
+    "name": "Ornate Chestplate",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Ornate_Chestplate"
+  },
+  {
+    "name": "Ornate Legs",
+    "slot": "legs",
+    "level": 185,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ornate_Legs"
+  },
+  {
+    "name": "Ornate Shield",
+    "slot": "shield",
+    "level": 130,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Ornate_Shield"
+  },
+  {
+    "name": "Orshabaal",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 80,
+      "death": 50,
+      "holy": 101,
+      "ice": 101,
+      "fire": 0,
+      "energy": 20,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Orshabaal"
   }
 ]
