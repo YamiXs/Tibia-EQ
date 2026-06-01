@@ -5172,5 +5172,125 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Orshabaal"
+  },
+  {
+    "name": "Outburst",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 110,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Outburst"
+  },
+  {
+    "name": "Pair of Dreamwalkers",
+    "slot": "boots",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Pair_of_Dreamwalkers"
+  },
+  {
+    "name": "Pair of Earmuffs",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "ice": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Pair_of_Earmuffs"
+  },
+  {
+    "name": "Pair of Nightmare Boots",
+    "slot": "boots",
+    "level": 140,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Pair_of_Nightmare_Boots"
+  },
+  {
+    "name": "Pair of Soulstalkers",
+    "slot": "boots",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Pair_of_Soulstalkers"
+  },
+  {
+    "name": "Pair of Soulwalkers",
+    "slot": "boots",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 7,
+      "fire": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Pair_of_Soulwalkers"
+  },
+  {
+    "name": "Plagirath",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 90,
+      "fire": 125,
+      "energy": 110,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Plagirath"
+  },
+  {
+    "name": "Prismatic Armor",
+    "slot": "armor",
+    "level": 120,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Armor"
   }
 ]
