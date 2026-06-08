@@ -5292,5 +5292,292 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Prismatic_Armor"
+  },
+  {
+    "name": "Prismatic Boots",
+    "slot": "boots",
+    "level": 150,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Boots"
+  },
+  {
+    "name": "Prismatic Helmet",
+    "slot": "helmet",
+    "level": 150,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Helmet"
+  },
+  {
+    "name": "Prismatic Legs",
+    "slot": "legs",
+    "level": 150,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Legs"
+  },
+  {
+    "name": "Prismatic Necklace",
+    "slot": "amulet",
+    "level": 150,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 10,
+      "energy": 15
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Necklace"
+  },
+  {
+    "name": "Prismatic Ring",
+    "slot": "ring",
+    "level": 120,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 10,
+      "energy": 8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Ring"
+  },
+  {
+    "name": "Prismatic Shield",
+    "slot": "shield",
+    "level": 150,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Prismatic_Shield"
+  },
+  {
+    "name": "Protection Amulet",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Protection_Amulet"
+  },
+  {
+    "name": "Ragiaz",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ragiaz"
+  },
+  {
+    "name": "Rainbow Amulet",
+    "slot": "amulet",
+    "level": 220,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 5,
+      "fire": 6,
+      "ice": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Rainbow_Amulet"
+  },
+  {
+    "name": "Rainbow Necklace",
+    "slot": "amulet",
+    "level": 220,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3,
+      "fire": 6,
+      "ice": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Rainbow_Necklace"
+  },
+  {
+    "name": "Ratmiral Blackwhiskers",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ratmiral_Blackwhiskers"
+  },
+  {
+    "name": "Ravenous Hunger",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ravenous_Hunger"
+  },
+  {
+    "name": "Raxias",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 105,
+      "energy": 110,
+      "earth": 40
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Raxias"
+  },
+  {
+    "name": "Razzagorn",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 90,
+      "ice": 100,
+      "fire": 60,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Razzagorn"
+  },
+  {
+    "name": "Realityquake",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Realityquake"
+  },
+  {
+    "name": "Refined Stag Shield",
+    "slot": "shield",
+    "level": 350,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "ice": 12
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Refined_Stag_Shield"
+  },
+  {
+    "name": "Retros Treasure",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Retros_Treasure"
+  },
+  {
+    "name": "Ring of Orange Plasma",
+    "slot": "ring",
+    "level": 100,
+    "voc": [
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "physical": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ring_of_Orange_Plasma"
   }
 ]
