@@ -5579,5 +5579,280 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Ring_of_Orange_Plasma"
+  },
+  {
+    "name": "Ring of Red Plasma",
+    "slot": "ring",
+    "level": 100,
+    "voc": [
+      "KNIGHT",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ring_of_Red_Plasma"
+  },
+  {
+    "name": "Ring of Souls",
+    "slot": "ring",
+    "level": 200,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ring_of_Souls"
+  },
+  {
+    "name": "Robe of Enlightenment",
+    "slot": "armor",
+    "level": 150,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "ice": 4
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Robe_of_Enlightenment"
+  },
+  {
+    "name": "Robe of the Ice Queen",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "ice": 12,
+      "energy": -12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Robe_of_the_Ice_Queen"
+  },
+  {
+    "name": "Robe of the Underworld",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 12,
+      "holy": -12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Robe_of_the_Underworld"
+  },
+  {
+    "name": "Ron the Ripper",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ron_the_Ripper"
+  },
+  {
+    "name": "Rotspit",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Rotspit"
+  },
+  {
+    "name": "Rotten Demonbone",
+    "slot": "unknown",
+    "level": 80,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "earth": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Rotten_Demonbone"
+  },
+  {
+    "name": "Rotworm Queen",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 120,
+      "energy": 100,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Rotworm_Queen"
+  },
+  {
+    "name": "Royal Scale Robe",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Royal_Scale_Robe"
+  },
+  {
+    "name": "Rubber Cap",
+    "slot": "helmet",
+    "level": 70,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 3,
+      "fire": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Rubber_Cap"
+  },
+  {
+    "name": "Sanguine Boots",
+    "slot": "boots",
+    "level": 500,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "ice": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Sanguine_Boots"
+  },
+  {
+    "name": "Sanguine Galoshes",
+    "slot": "boots",
+    "level": 500,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 2,
+      "fire": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Sanguine_Galoshes"
+  },
+  {
+    "name": "Sanguine Greaves",
+    "slot": "legs",
+    "level": 500,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 7,
+      "energy": 9
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sanguine_Greaves"
+  },
+  {
+    "name": "Sanguine Legs",
+    "slot": "legs",
+    "level": 500,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 9,
+      "death": 6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sanguine_Legs"
+  },
+  {
+    "name": "Sanguine Trousers",
+    "slot": "legs",
+    "level": 500,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "energy": 8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sanguine_Trousers"
+  },
+  {
+    "name": "Scar Tribe Shaman",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Scar_Tribe_Shaman"
+  },
+  {
+    "name": "Scar Tribe Warrior",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Scar_Tribe_Warrior"
   }
 ]
