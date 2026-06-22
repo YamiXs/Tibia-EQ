@@ -5854,5 +5854,187 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Scar_Tribe_Warrior"
+  },
+  {
+    "name": "Shockwave Amulet",
+    "slot": "amulet",
+    "level": 80,
+    "voc": [
+      "KNIGHT",
+      "PALADIN",
+      "DRUID",
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "physical": 60,
+      "energy": 40
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Shockwave_Amulet"
+  },
+  {
+    "name": "Shoulder Plate",
+    "slot": "offhand",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "earth": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Shoulder_Plate"
+  },
+  {
+    "name": "Shroud of Despair",
+    "slot": "helmet",
+    "level": 150,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Shroud_of_Despair"
+  },
+  {
+    "name": "Shulgrax",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 90,
+      "fire": 110,
+      "energy": 110,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Shulgrax"
+  },
+  {
+    "name": "Silver Amulet",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "earth": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Silver_Amulet"
+  },
+  {
+    "name": "Sir Baeloc",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": -100,
+      "holy": 110,
+      "ice": 65,
+      "fire": 110,
+      "energy": 100,
+      "earth": 30
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sir_Baeloc"
+  },
+  {
+    "name": "Sir Nictros",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": -300,
+      "holy": 110,
+      "ice": 65,
+      "fire": 110,
+      "energy": 95,
+      "earth": 20
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sir_Nictros"
+  },
+  {
+    "name": "Sister Hetai",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 95,
+      "death": 100,
+      "holy": 100,
+      "ice": 125,
+      "fire": 90,
+      "energy": 85,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sister_Hetai"
+  },
+  {
+    "name": "Skullcracker Armor",
+    "slot": "armor",
+    "level": 85,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "death": 5,
+      "holy": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Skullcracker_Armor"
+  },
+  {
+    "name": "Soul of Dragonking Zyrtarch",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 0,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Soul_of_Dragonking_Zyrtarch"
+  },
+  {
+    "name": "Soulbastion",
+    "slot": "shield",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 10,
+      "death": 10
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Soulbastion"
   }
 ]
