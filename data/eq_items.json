@@ -6036,5 +6036,423 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Soulbastion"
+  },
+  {
+    "name": "Soulbleeder",
+    "slot": "unknown",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "holy": 7
+    },
+    "imbueSlots": 3,
+    "source": "https://tibia.fandom.com/wiki/Soulbleeder"
+  },
+  {
+    "name": "Soulful Legs",
+    "slot": "legs",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "holy": 8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Soulful_Legs"
+  },
+  {
+    "name": "Soulgarb",
+    "slot": "armor",
+    "level": 400,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4,
+      "ice": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soulgarb"
+  },
+  {
+    "name": "Soulhexer",
+    "slot": "unknown",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "ice": 12
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soulhexer"
+  },
+  {
+    "name": "Soulmantle",
+    "slot": "armor",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soulmantle"
+  },
+  {
+    "name": "Soulpiercer",
+    "slot": "unknown",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "death": 7
+    },
+    "imbueSlots": 3,
+    "source": "https://tibia.fandom.com/wiki/Soulpiercer"
+  },
+  {
+    "name": "Soulshanks",
+    "slot": "legs",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Soulshanks"
+  },
+  {
+    "name": "Soulshell",
+    "slot": "armor",
+    "level": 400,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "fire": 15
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soulshell"
+  },
+  {
+    "name": "Soulshroud",
+    "slot": "armor",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "death": 10
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soulshroud"
+  },
+  {
+    "name": "Soulsoles",
+    "slot": "boots",
+    "level": 400,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Soulsoles"
+  },
+  {
+    "name": "Soulstrider",
+    "slot": "legs",
+    "level": 400,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "fire": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Soulstrider"
+  },
+  {
+    "name": "Soultainter",
+    "slot": "unknown",
+    "level": 400,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 12
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Soultainter"
+  },
+  {
+    "name": "Spellbook of Ancient Arcana",
+    "slot": "offhand",
+    "level": 150,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Spellbook_of_Ancient_Arcana"
+  },
+  {
+    "name": "Spellbook of Vigilance",
+    "slot": "offhand",
+    "level": 130,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 3,
+      "fire": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Spellbook_of_Vigilance"
+  },
+  {
+    "name": "Spirit Bind",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "energy": 5,
+      "ice": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Spirit_Bind"
+  },
+  {
+    "name": "Spirit Guide",
+    "slot": "offhand",
+    "level": 180,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Spirit_Guide"
+  },
+  {
+    "name": "Spiritthorn Armor",
+    "slot": "armor",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 13
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Spiritthorn_Armor"
+  },
+  {
+    "name": "Spiritthorn Helmet",
+    "slot": "helmet",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 6,
+      "energy": 10
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Spiritthorn_Helmet"
+  },
+  {
+    "name": "Spiritthorn Ring",
+    "slot": "ring",
+    "level": 400,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 2,
+      "fire": 4,
+      "earth": 4,
+      "energy": 4,
+      "ice": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Spiritthorn_Ring"
+  },
+  {
+    "name": "Srezz Yellow Eyes",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 70,
+      "energy": 90,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Srezz_Yellow_Eyes"
+  },
+  {
+    "name": "Stag Boots",
+    "slot": "boots",
+    "level": 350,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "energy": 8
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Boots"
+  },
+  {
+    "name": "Stag Footwraps",
+    "slot": "boots",
+    "level": 350,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Footwraps"
+  },
+  {
+    "name": "Stag Helmet",
+    "slot": "helmet",
+    "level": 350,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "energy": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stag_Helmet"
+  },
+  {
+    "name": "Stag Legs",
+    "slot": "legs",
+    "level": 350,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 7,
+      "fire": 7
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Stag_Legs"
+  },
+  {
+    "name": "Stag Plate",
+    "slot": "armor",
+    "level": 350,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "ice": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stag_Plate"
+  },
+  {
+    "name": "Stag Robe",
+    "slot": "armor",
+    "level": 350,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 4
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stag_Robe"
+  },
+  {
+    "name": "Stag Scrolls",
+    "slot": "offhand",
+    "level": 350,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "physical": 2,
+      "death": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Scrolls"
+  },
+  {
+    "name": "Stag Shield",
+    "slot": "shield",
+    "level": 350,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "ice": 10
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Shield"
+  },
+  {
+    "name": "Stag Shinguards",
+    "slot": "boots",
+    "level": 350,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 2,
+      "energy": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Shinguards"
+  },
+  {
+    "name": "Stag Spellbook",
+    "slot": "offhand",
+    "level": 350,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "physical": 2,
+      "energy": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stag_Spellbook"
   }
 ]
