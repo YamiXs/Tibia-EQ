@@ -6454,5 +6454,396 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Stag_Spellbook"
+  },
+  {
+    "name": "Stitched Mutant Hide Legs",
+    "slot": "legs",
+    "level": 270,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "earth": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Stitched_Mutant_Hide_Legs"
+  },
+  {
+    "name": "Stoic Iks Boots",
+    "slot": "boots",
+    "level": 250,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "fire": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Boots"
+  },
+  {
+    "name": "Stoic Iks Casque",
+    "slot": "helmet",
+    "level": 250,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "physical": 3,
+      "energy": 6
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Casque"
+  },
+  {
+    "name": "Stoic Iks Chestplate",
+    "slot": "armor",
+    "level": 250,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 8
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Chestplate"
+  },
+  {
+    "name": "Stoic Iks Cuirass",
+    "slot": "armor",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Cuirass"
+  },
+  {
+    "name": "Stoic Iks Culet",
+    "slot": "legs",
+    "level": 250,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 4,
+      "energy": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Culet"
+  },
+  {
+    "name": "Stoic Iks Faulds",
+    "slot": "legs",
+    "level": 250,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Faulds"
+  },
+  {
+    "name": "Stoic Iks Headpiece",
+    "slot": "helmet",
+    "level": 250,
+    "voc": [
+      "DRUID"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Headpiece"
+  },
+  {
+    "name": "Stoic Iks Robe",
+    "slot": "armor",
+    "level": 250,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "physical": 2,
+      "energy": 5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Robe"
+  },
+  {
+    "name": "Stoic Iks Sandals",
+    "slot": "boots",
+    "level": 250,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "ice": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Stoic_Iks_Sandals"
+  },
+  {
+    "name": "Stonecracker",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 100,
+      "holy": 99,
+      "ice": 100,
+      "fire": 60,
+      "energy": 70,
+      "earth": 25
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Stonecracker"
+  },
+  {
+    "name": "Strange Talisman",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "energy": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Strange_Talisman"
+  },
+  {
+    "name": "Sugar Daddy",
+    "slot": "shield",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 105,
+      "energy": 75,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sugar_Daddy"
+  },
+  {
+    "name": "Sulphur Scuttler",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sulphur_Scuttler"
+  },
+  {
+    "name": "Sulphurous Demonbone",
+    "slot": "unknown",
+    "level": 80,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "fire": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Sulphurous_Demonbone"
+  },
+  {
+    "name": "Summer Dress",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Summer_Dress"
+  },
+  {
+    "name": "Sun-Marked Goanna",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 99
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sun-Marked_Goanna"
+  },
+  {
+    "name": "Sun Catcher",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "fire": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Sun_Catcher"
+  },
+  {
+    "name": "Swamplair Armor",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "earth": 3,
+      "fire": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Swamplair_Armor"
+  },
+  {
+    "name": "Swan Feather Cloak",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "energy": 12,
+      "earth": 12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Swan_Feather_Cloak"
+  },
+  {
+    "name": "Tanjis",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 101,
+      "death": 50,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 90,
+      "earth": 105
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Tanjis"
+  },
+  {
+    "name": "Tarbaz",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Tarbaz"
+  },
+  {
+    "name": "Terofar",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 50,
+      "holy": 50,
+      "ice": 50,
+      "fire": 50,
+      "energy": 50,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terofar"
+  },
+  {
+    "name": "Terra Amulet",
+    "slot": "amulet",
+    "level": 60,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "earth": 20,
+      "fire": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terra_Amulet"
+  },
+  {
+    "name": "Terra Boots",
+    "slot": "boots",
+    "level": 35,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": -5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Terra_Boots"
+  },
+  {
+    "name": "Terra Helmet",
+    "slot": "helmet",
+    "level": 230,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "physical": 5,
+      "earth": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Terra_Helmet"
   }
 ]
