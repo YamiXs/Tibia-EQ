@@ -6845,5 +6845,516 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Terra_Helmet"
+  },
+  {
+    "name": "Terra Hood",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 4,
+      "fire": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terra_Hood"
+  },
+  {
+    "name": "Terra Legs",
+    "slot": "legs",
+    "level": 40,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 6,
+      "fire": -6
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terra_Legs"
+  },
+  {
+    "name": "Terra Mantle",
+    "slot": "armor",
+    "level": 50,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 8,
+      "fire": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terra_Mantle"
+  },
+  {
+    "name": "Terra Set",
+    "slot": "unknown",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Terra_Set"
+  },
+  {
+    "name": "Thaian",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 10,
+      "death": 10,
+      "holy": 10,
+      "ice": 10,
+      "fire": 10,
+      "energy": 10,
+      "earth": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thaian"
+  },
+  {
+    "name": "Thalas",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 120,
+      "ice": 110,
+      "fire": 110,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thalas"
+  },
+  {
+    "name": "The Baron from Below",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Baron_from_Below"
+  },
+  {
+    "name": "The Blightfather",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Blightfather"
+  },
+  {
+    "name": "The Bloodweb",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 0,
+      "energy": 120,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Bloodweb"
+  },
+  {
+    "name": "The Brainstealer",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Brainstealer"
+  },
+  {
+    "name": "The Cobra Amulet",
+    "slot": "amulet",
+    "level": 250,
+    "voc": [
+      "DRUID",
+      "SORCERER",
+      "MONK"
+    ],
+    "res": {
+      "death": 9
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Cobra_Amulet"
+  },
+  {
+    "name": "The Count of the Core",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": -75,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Count_of_the_Core"
+  },
+  {
+    "name": "The Dread Maiden",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": -100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Dread_Maiden"
+  },
+  {
+    "name": "The Evil Eye",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 101,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Evil_Eye"
+  },
+  {
+    "name": "The False God",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 50,
+      "holy": 100,
+      "ice": 100,
+      "fire": 90,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_False_God"
+  },
+  {
+    "name": "The Fear Feaster",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 110,
+      "death": -100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 110,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Fear_Feaster"
+  },
+  {
+    "name": "The Flaming Orchid",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 70,
+      "holy": 100,
+      "ice": 110,
+      "fire": 0,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Flaming_Orchid"
+  },
+  {
+    "name": "The Horned Fox",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 101,
+      "holy": 100,
+      "ice": 101,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Horned_Fox"
+  },
+  {
+    "name": "The Hungerer",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 85,
+      "holy": 100,
+      "ice": 105,
+      "fire": 80,
+      "energy": 111,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Hungerer"
+  },
+  {
+    "name": "The Imperor",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 0,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Imperor"
+  },
+  {
+    "name": "The Monster",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Monster"
+  },
+  {
+    "name": "The Moonlight Aster",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 85,
+      "fire": 90,
+      "energy": 110,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Moonlight_Aster"
+  },
+  {
+    "name": "The Noxious Spawn",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 110,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Noxious_Spawn"
+  },
+  {
+    "name": "The Pale Worm",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 10,
+      "death": 10,
+      "holy": 10,
+      "ice": 10,
+      "fire": 10,
+      "energy": 10,
+      "earth": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Pale_Worm"
+  },
+  {
+    "name": "The Rootkraken",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 115,
+      "energy": 85,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Rootkraken"
+  },
+  {
+    "name": "The Sandking",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Sandking"
+  },
+  {
+    "name": "The Scourge of Oblivion",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Scourge_of_Oblivion"
+  },
+  {
+    "name": "The Snapper",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 105,
+      "death": 100,
+      "holy": 100,
+      "ice": 90,
+      "fire": 110,
+      "energy": 105,
+      "earth": 85
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Snapper"
   }
 ]
