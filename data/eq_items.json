@@ -7356,5 +7356,334 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/The_Snapper"
+  },
+  {
+    "name": "The Souldespoiler",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Souldespoiler"
+  },
+  {
+    "name": "The Source of Corruption",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Source_of_Corruption"
+  },
+  {
+    "name": "The Unwelcome",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 10,
+      "death": 10,
+      "holy": 10,
+      "ice": 10,
+      "fire": 10,
+      "energy": 10,
+      "earth": 10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Unwelcome"
+  },
+  {
+    "name": "The Winter Bloom",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 80,
+      "holy": 100,
+      "ice": 0,
+      "fire": 110,
+      "energy": 100,
+      "earth": 50
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/The_Winter_Bloom"
+  },
+  {
+    "name": "Thul",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 0,
+      "fire": 100,
+      "energy": 115,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thul"
+  },
+  {
+    "name": "Thunderheart Cuirass",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thunderheart_Cuirass"
+  },
+  {
+    "name": "Thunderheart Hauberk",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thunderheart_Hauberk"
+  },
+  {
+    "name": "Thunderheart Platemail",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thunderheart_Platemail"
+  },
+  {
+    "name": "Thundermind Raiment",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thundermind_Raiment"
+  },
+  {
+    "name": "Thundersoul Tabard",
+    "slot": "armor",
+    "level": 200,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 8,
+      "earth": -8
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Thundersoul_Tabard"
+  },
+  {
+    "name": "Timira the Many-Headed",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 90,
+      "holy": 100,
+      "ice": 90,
+      "fire": 90,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Timira_the_Many-Headed"
+  },
+  {
+    "name": "Toga Mortis",
+    "slot": "armor",
+    "level": 220,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "death": 6
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Toga_Mortis"
+  },
+  {
+    "name": "Tremor Worm",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 25,
+      "death": 25,
+      "holy": 25,
+      "ice": 25,
+      "fire": 25,
+      "energy": 25,
+      "earth": 25
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Tremor_Worm"
+  },
+  {
+    "name": "Troll-Trained Salamander",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 85,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Troll-Trained_Salamander"
+  },
+  {
+    "name": "Troll Marauder",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 115,
+      "death": 110,
+      "holy": 90,
+      "ice": 90,
+      "fire": 90,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Troll_Marauder"
+  },
+  {
+    "name": "Tyrn",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 70,
+      "energy": 0,
+      "earth": 20
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Tyrn"
+  },
+  {
+    "name": "Tzumrah the Dazzler",
+    "slot": "ring",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 80,
+      "energy": 105,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Tzumrah_the_Dazzler"
+  },
+  {
+    "name": "Ugly Monster",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 100,
+      "ice": 80,
+      "fire": 80,
+      "energy": 80,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ugly_Monster"
+  },
+  {
+    "name": "Umbral Master Spellbook",
+    "slot": "offhand",
+    "level": 250,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5,
+      "fire": 5,
+      "ice": 5,
+      "energy": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Umbral_Master_Spellbook"
   }
 ]
