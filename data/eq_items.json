@@ -7685,5 +7685,249 @@
     },
     "imbueSlots": 1,
     "source": "https://tibia.fandom.com/wiki/Umbral_Master_Spellbook"
+  },
+  {
+    "name": "Umbral Spellbook",
+    "slot": "offhand",
+    "level": 150,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 3,
+      "energy": 3,
+      "fire": 3,
+      "ice": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Umbral_Spellbook"
+  },
+  {
+    "name": "Unaz the Mean",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 0,
+      "holy": 100,
+      "ice": 110,
+      "fire": 100,
+      "energy": 50,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Unaz_the_Mean"
+  },
+  {
+    "name": "Unerring Dragon Scale Armor",
+    "slot": "armor",
+    "level": 300,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 10,
+      "earth": -5
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Unerring_Dragon_Scale_Armor"
+  },
+  {
+    "name": "Unliving Demonbone",
+    "slot": "unknown",
+    "level": 80,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 2,
+    "source": "https://tibia.fandom.com/wiki/Unliving_Demonbone"
+  },
+  {
+    "name": "Urmahlullu the Weakened",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 0,
+      "energy": 90,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Urmahlullu_the_Weakened"
+  },
+  {
+    "name": "Ushuriel",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 0,
+      "holy": 75,
+      "ice": 70,
+      "fire": 70,
+      "energy": 70,
+      "earth": 70
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Ushuriel"
+  },
+  {
+    "name": "Usurper Commander",
+    "slot": "offhand",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 99,
+      "death": 101,
+      "holy": 99,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Usurper_Commander"
+  },
+  {
+    "name": "Utua Stone Sting",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 75,
+      "energy": 85,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Utua_Stone_Sting"
+  },
+  {
+    "name": "Vashresamun",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 0,
+      "holy": 110,
+      "ice": 80,
+      "fire": 80,
+      "energy": 80,
+      "earth": 80
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Vashresamun"
+  },
+  {
+    "name": "Velvet Mantle",
+    "slot": "armor",
+    "level": 75,
+    "voc": [
+      "SORCERER"
+    ],
+    "res": {
+      "energy": 12,
+      "earth": -12
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Velvet_Mantle"
+  },
+  {
+    "name": "Venerable Foam Stalker",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 80,
+      "fire": 20,
+      "energy": 130,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Venerable_Foam_Stalker"
+  },
+  {
+    "name": "Vladrukh",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Vladrukh"
+  },
+  {
+    "name": "Vok the Freakish",
+    "slot": "boots",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 50,
+      "death": 0,
+      "holy": 100,
+      "ice": 110,
+      "fire": 100,
+      "energy": 0,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Vok_the_Freakish"
+  },
+  {
+    "name": "Voltage Armor",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "KNIGHT",
+      "PALADIN"
+    ],
+    "res": {
+      "energy": 3,
+      "earth": -3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Voltage_Armor"
   }
 ]
