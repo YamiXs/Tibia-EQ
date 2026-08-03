@@ -7929,5 +7929,260 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Voltage_Armor"
+  },
+  {
+    "name": "White Pale",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/White_Pale"
+  },
+  {
+    "name": "Willi Wasp",
+    "slot": "amulet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 110,
+      "energy": 100,
+      "earth": 0
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Willi_Wasp"
+  },
+  {
+    "name": "Windborn Colossus Armor",
+    "slot": "armor",
+    "level": 100,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "energy": 5,
+      "earth": -5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Windborn_Colossus_Armor"
+  },
+  {
+    "name": "Winged Boots",
+    "slot": "boots",
+    "level": 220,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "earth": 7
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Winged_Boots"
+  },
+  {
+    "name": "Wood Cape",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "PALADIN",
+      "MONK"
+    ],
+    "res": {
+      "earth": 4
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Wood_Cape"
+  },
+  {
+    "name": "Wooden Spellbook",
+    "slot": "offhand",
+    "level": 80,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "earth": 5
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Wooden_Spellbook"
+  },
+  {
+    "name": "World Devourer",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 100,
+      "energy": 100,
+      "earth": 100
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/World_Devourer"
+  },
+  {
+    "name": "Yalahari Armor",
+    "slot": "armor",
+    "level": 80,
+    "voc": [
+      "KNIGHT"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Yalahari_Armor"
+  },
+  {
+    "name": "Yalahari Footwraps",
+    "slot": "boots",
+    "level": 80,
+    "voc": [
+      "MONK"
+    ],
+    "res": {
+      "death": 3
+    },
+    "imbueSlots": 1,
+    "source": "https://tibia.fandom.com/wiki/Yalahari_Footwraps"
+  },
+  {
+    "name": "Yalahari Leg Piece",
+    "slot": "legs",
+    "level": 80,
+    "voc": [
+      "PALADIN"
+    ],
+    "res": {
+      "death": 5
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Yalahari_Leg_Piece"
+  },
+  {
+    "name": "Yirkas Blue Scales",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 100,
+      "ice": 100,
+      "fire": 90,
+      "energy": 85,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Yirkas_Blue_Scales"
+  },
+  {
+    "name": "Young Troll",
+    "slot": "helmet",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 110,
+      "holy": 90,
+      "ice": 100,
+      "fire": 100,
+      "energy": 80,
+      "earth": 110
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Young_Troll"
+  },
+  {
+    "name": "Zamulosh",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 100,
+      "holy": 101,
+      "ice": 100,
+      "fire": 50,
+      "energy": 100,
+      "earth": 101
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Zamulosh"
+  },
+  {
+    "name": "Zaoan Legs",
+    "slot": "legs",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 2
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Zaoan_Legs"
+  },
+  {
+    "name": "Zaoan Robe",
+    "slot": "armor",
+    "level": 60,
+    "voc": [
+      "DRUID",
+      "SORCERER"
+    ],
+    "res": {
+      "fire": 10,
+      "ice": -10
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Zaoan_Robe"
+  },
+  {
+    "name": "Zavarash",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 90,
+      "death": 65,
+      "holy": 120,
+      "ice": 60,
+      "fire": 70,
+      "energy": 60,
+      "earth": 60
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Zavarash"
   }
 ]
