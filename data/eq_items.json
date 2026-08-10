@@ -8184,5 +8184,24 @@
     },
     "imbueSlots": 0,
     "source": "https://tibia.fandom.com/wiki/Zavarash"
+  },
+  {
+    "name": "Zulazza the Corruptor",
+    "slot": "armor",
+    "level": null,
+    "voc": [
+      "ANY"
+    ],
+    "res": {
+      "physical": 100,
+      "death": 70,
+      "holy": 80,
+      "ice": 80,
+      "fire": 100,
+      "energy": 0,
+      "earth": 30
+    },
+    "imbueSlots": 0,
+    "source": "https://tibia.fandom.com/wiki/Zulazza_the_Corruptor"
   }
 ]
